@@ -81,16 +81,14 @@ app.all('/users/:id/:full_name/:drug/:email/:gender/:age', (req, res) => {
    // res.json(obj);
 });
 
+//// return drugName for requested id 
 
-
-
-
-
-
-
-
-
-
-
-
+app.get('/drugs/:id', (req, res) => {
+    let obj ;
+    obj= drugs.filter(u => {
+           if (u.id == req.params.id){
+       
+           res.json(u.drugName);}
+           })
+    });
 app.listen(3000, () => console.log("done"));
