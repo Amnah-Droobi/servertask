@@ -29,6 +29,26 @@ app.get('/users/:id', (req, res) => {
     }
 });
 
+////// add users to array
+
+app.post('/users/:name/:email/:gender', (req, res) => {
+
+    let obj = {
+        name: req.params.name,
+        email: req.params.email,
+        gender: req.params.gender,
+    };
+
+    users = users.push(obj);
+    res.json(obj);
+    users = fs.writeFileSync('/users.json', JSON.stringify(obj), function (err) {
+        console.log(err);
+    });
+
+    res.json(users);
+
+});
+
 
 
 
