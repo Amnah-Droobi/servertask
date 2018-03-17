@@ -13,6 +13,21 @@ app.get('/users', (req, res) => res.json(users)
 app.get('/drugs', (req, res) => res.json(drugs)
 );
 
+//// return user with  specified id 
+app.get('/users/:id', (req, res) => {
+    let obj = {
+        body: req.body,
+        param: req.params,
+        path: req.path,
+        query: req.query,
+    };
+    let user = users[req.params.id]
+    if (!user) {
+        res.status(404).json("Not Found");
+    } else {
+        res.json(user);
+    }
+});
 
 
 
