@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "drugName": "PlusPHARMA",
+        "company": "Gemini Pharmaceuticals, Inc. dba Plus Pharma",
+        "userId": 25
+    },
+    {
+        "id": 2,
+        "drugName": "Nortriptyline Hydrochloride",
+        "company": "Unit Dose Services",
+        "userId": 44
+    },
+    {
+        "id": 3,
+        "drugName": "Povidone Iodine Surgical Scrub",
+        "company": "Jiangsu Province JianErKang Medical Dressing Co. ,Ltd.",
+        "userId": 46
+    },
+    {
+        "id": 4,
+        "drugName": "Anti-Bacterial Hand",
+        "company": "Bath & Body Works, Inc.",
+        "userId": 90
+    },
+    {
+        "id": 5,
+        "drugName": "Long-Lasting Wicked Fresh - Cool Peppermint",
+        "company": "Tom's of Maine, Inc.",
+        "userId": 11
+    },
+    {
+        "id": 6,
+        "drugName": "Phenytek",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 11
+    },
+    {
+        "id": 7,
+        "drugName": "HYDROMORPHONE HYDROCHLORIDE",
+        "company": "Bryant Ranch Prepack",
+        "userId": 67
+    },
+    {
+        "id": 8,
+        "drugName": "TAZICEF",
+        "company": "Hospira, Inc.",
+        "userId": 82
+    },
+    {
+        "id": 9,
+        "drugName": "HurriCaine",
+        "company": "Beutlich Pharmaceuticals LLC",
+        "userId": 41
+    },
+    {
+        "id": 10,
+        "drugName": "Quintessence Q-Sunshade Leave In Hair Conditioner and Scalp Protectant SPF 30",
+        "company": "International Cosmeceuticals, Inc",
+        "userId": 31
+    },
+    {
+        "id": 11,
+        "drugName": "Ciprofloxacin",
+        "company": "Rebel Distributors Corp.",
+        "userId": 45
+    },
+    {
+        "id": 12,
+        "drugName": "HAND SANITIZING",
+        "company": "Sigan Industries",
+        "userId": 56
+    },
+    {
+        "id": 13,
+        "drugName": "Acetylcysteine",
+        "company": "Roxane Laboratories, Inc.",
+        "userId": 62
+    },
+    {
+        "id": 14,
+        "drugName": "Shingles",
+        "company": "Newton Laboratories, Inc.",
+        "userId": 1
+    },
+    {
+        "id": 15,
+        "drugName": "Chlorpromazine Hydrochloride",
+        "company": "American Health Packaging",
+        "userId": 68
+    },
+    {
+        "id": 16,
+        "drugName": "ALPRAZOLAM EXTENDED-RELEASE",
+        "company": "Rising Pharmaceuticals Inc",
+        "userId": 51
+    },
+    {
+        "id": 17,
+        "drugName": "Delsym",
+        "company": "Reckitt Benckiser LLC",
+        "userId": 89
+    },
+    {
+        "id": 18,
+        "drugName": "Desmopressin Acetate",
+        "company": "Watson Laboratories, Inc.",
+        "userId": 58
+    },
+    {
+        "id": 19,
+        "drugName": "Pyridium",
+        "company": "Gemini Laboratories, LLC",
+        "userId": 96
+    },
+    {
+        "id": 20,
+        "drugName": "Levaquin",
+        "company": "Janssen Pharmaceuticals, Inc.",
+        "userId": 46
+    },
+    {
+        "id": 21,
+        "drugName": "Povidone-Iodine",
+        "company": "Wuxi Medical Instrument Factory",
+        "userId": 54
+    },
+    {
+        "id": 22,
+        "drugName": "Tamiflu",
+        "company": "Genentech, Inc.",
+        "userId": 38
+    },
+    {
+        "id": 23,
+        "drugName": "Nystatin",
+        "company": "Taro Pharmaceuticals U.S.A., Inc.",
+        "userId": 51
+    },
+    {
+        "id": 24,
+        "drugName": "Hydrogen Peroxide",
+        "company": "Chain Drug Consortium, LLC",
+        "userId": 54
+    },
+    {
+        "id": 25,
+        "drugName": "CRESTOR",
+        "company": "Cardinal Health",
+        "userId": 54
+    },
+    {
+        "id": 26,
+        "drugName": "Aspirin",
+        "company": "H E B",
+        "userId": 43
+    },
+    {
+        "id": 27,
+        "drugName": "Lidocaine Hydrochloride",
+        "company": "Cardinal Health",
+        "userId": 26
+    },
+    {
+        "id": 28,
+        "drugName": "EndoPure Estro",
+        "company": "The Wellness Center",
+        "userId": 49
+    },
+    {
+        "id": 29,
+        "drugName": "PredniSONE",
+        "company": "NCS HealthCare of KY, Inc dba Vangard Labs",
+        "userId": 28
+    },
+    {
+        "id": 30,
+        "drugName": "SEROQUEL",
+        "company": "Cardinal Health",
+        "userId": 49
+    },
+    {
+        "id": 31,
+        "drugName": "Primaquine Phosphate",
+        "company": "sanofi-aventis U.S. LLC",
+        "userId": 74
+    },
+    {
+        "id": 32,
+        "drugName": "Citrus Burst Antibacterial Hand Wash",
+        "company": "SJ Creations, Inc.",
+        "userId": 16
+    },
+    {
+        "id": 33,
+        "drugName": "Warfarin Sodium",
+        "company": "Aphena Pharma Solutions - Tennessee, LLC",
+        "userId": 71
+    },
+    {
+        "id": 34,
+        "drugName": "SPINACH",
+        "company": "Allergy Laboratories, Inc.",
+        "userId": 58
+    },
+    {
+        "id": 35,
+        "drugName": "SUPERBALANCED",
+        "company": "CLINIQUE LABORATORIES INC.",
+        "userId": 78
+    },
+    {
+        "id": 36,
+        "drugName": "ASSURED FIRST AID ANTISEPTIC ADHESIVE BANDAGE",
+        "company": "Greenbrier International, Inc.",
+        "userId": 96
+    },
+    {
+        "id": 37,
+        "drugName": "Repaglinide",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 27
+    },
+    {
+        "id": 38,
+        "drugName": "Microgestin",
+        "company": "Actavis Pharma, Inc.",
+        "userId": 91
+    },
+    {
+        "id": 39,
+        "drugName": "HYDROCORTISONE",
+        "company": "Water-Jel Technologies",
+        "userId": 43
+    },
+    {
+        "id": 40,
+        "drugName": "Lisinopril",
+        "company": "American Health Packaging",
+        "userId": 67
+    },
+    {
+        "id": 41,
+        "drugName": "Simvastatin",
+        "company": "Carilion Materials Management",
+        "userId": 48
+    },
+    {
+        "id": 42,
+        "drugName": "AgingEye Relief",
+        "company": "TRP Company",
+        "userId": 49
+    },
+    {
+        "id": 43,
+        "drugName": "Neomycin Polymyxin B Sulfates and Dexamethasone",
+        "company": "MWI/VetOne",
+        "userId": 51
+    },
+    {
+        "id": 44,
+        "drugName": "Lisinopril",
+        "company": "PD-Rx Pharmaceuticals, Inc.",
+        "userId": 80
+    },
+    {
+        "id": 45,
+        "drugName": "LivRelief",
+        "company": "LivCorp Inc.",
+        "userId": 79
+    },
+    {
+        "id": 46,
+        "drugName": "Alprazolam",
+        "company": "Cardinal Health",
+        "userId": 63
+    },
+    {
+        "id": 47,
+        "drugName": "Lorazepam",
+        "company": "West-ward Pharmaceutical Corp.",
+        "userId": 27
+    },
+    {
+        "id": 48,
+        "drugName": "Propranolol Hydrochloride",
+        "company": "Preferred Pharmaceuticals, Inc.",
+        "userId": 9
+    },
+    {
+        "id": 49,
+        "drugName": "Therapeutic T Plus",
+        "company": "Target Corp",
+        "userId": 44
+    },
+    {
+        "id": 50,
+        "drugName": "Skin Eruptions",
+        "company": "Natural Health Supply",
+        "userId": 63
+    },
+    {
+        "id": 51,
+        "drugName": "Brain Blance Core Formula",
+        "company": "Deseret Biologicals, Inc",
+        "userId": 97
+    },
+    {
+        "id": 52,
+        "drugName": "Lisinopril",
+        "company": "Mylan Institutional Inc.",
+        "userId": 5
+    },
+    {
+        "id": 53,
+        "drugName": "Sumatriptan Succinate",
+        "company": "Stat Rx USA",
+        "userId": 8
+    },
+    {
+        "id": 54,
+        "drugName": "RheumatismHP",
+        "company": "Apotheca Company",
+        "userId": 35
+    },
+    {
+        "id": 55,
+        "drugName": "Candesartan cilexetil",
+        "company": "Par Pharmaceutical Inc.",
+        "userId": 40
+    },
+    {
+        "id": 56,
+        "drugName": "Dicloxacillin Sodium",
+        "company": "H.J. Harkins Company, Inc.",
+        "userId": 60
+    },
+    {
+        "id": 57,
+        "drugName": "Amoxicillin",
+        "company": "Rebel Distributors Corp.",
+        "userId": 67
+    },
+    {
+        "id": 58,
+        "drugName": "Heartburn Relief to Go",
+        "company": "Breakthrough Products Inc.",
+        "userId": 11
+    },
+    {
+        "id": 59,
+        "drugName": "Hives - Rashes",
+        "company": "Newton Laboratories, Inc.",
+        "userId": 33
+    },
+    {
+        "id": 60,
+        "drugName": "Isopropyl Alcohol",
+        "company": "Medline Industries, Inc.",
+        "userId": 5
+    },
+    {
+        "id": 61,
+        "drugName": "ZIKS ARTHRITIS PAIN RELIEF",
+        "company": "Nnodum Pharmaceuticals",
+        "userId": 79
+    },
+    {
+        "id": 62,
+        "drugName": "SAFEWAY",
+        "company": "SAFEWAY INC.",
+        "userId": 92
+    },
+    {
+        "id": 63,
+        "drugName": "Arnica 30c",
+        "company": "BrandStorm HBC",
+        "userId": 14
+    },
+    {
+        "id": 64,
+        "drugName": "BareMinerals",
+        "company": "Bare Escentuals Beauty Inc.",
+        "userId": 90
+    },
+    {
+        "id": 65,
+        "drugName": "Montelukast Sodium",
+        "company": "Kremers Urban Pharmaceuticals Inc.",
+        "userId": 62
+    },
+    {
+        "id": 66,
+        "drugName": "Amlodipine besylate and Atorvastatin calcium",
+        "company": "Dr. Reddy's Laboratories Inc",
+        "userId": 11
+    },
+    {
+        "id": 67,
+        "drugName": "CHILDRENS ROBITUSSIN COUGH AND COLD LONG-ACTING",
+        "company": "Richmond Division of Wyeth",
+        "userId": 1
+    },
+    {
+        "id": 68,
+        "drugName": "Degree",
+        "company": "Conopco Inc. d/b/a Unilever",
+        "userId": 91
+    },
+    {
+        "id": 69,
+        "drugName": "SHISEIDO FUTURE SOLUTION LX TOTAL RADIANCE FOUNDATION",
+        "company": "SHISEIDO AMERICAS CORPORATION",
+        "userId": 66
+    },
+    {
+        "id": 70,
+        "drugName": "Zicam",
+        "company": "Matrixx Initiatives, Inc.",
+        "userId": 2
+    },
+    {
+        "id": 71,
+        "drugName": "MISSHA ALL AROUND SAFE BLOCK SOFT FINISH SUN MILK",
+        "company": "ABLE C&C CO., LTD.",
+        "userId": 51
+    },
+    {
+        "id": 72,
+        "drugName": "Propranolol Hydrochloride",
+        "company": "Cardinal Health",
+        "userId": 73
+    },
+    {
+        "id": 73,
+        "drugName": "DT ANTIBACTERIAL HAND",
+        "company": "VOLUME DISTRIBUTORS",
+        "userId": 37
+    },
+    {
+        "id": 74,
+        "drugName": "Wormwood",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 3
+    },
+    {
+        "id": 75,
+        "drugName": "Trandolapril",
+        "company": "Dispensing Solutions, Inc.",
+        "userId": 2
+    },
+    {
+        "id": 76,
+        "drugName": "CAFFEINE CITRATE",
+        "company": "REMEDYREPACK INC.",
+        "userId": 7
+    },
+    {
+        "id": 77,
+        "drugName": "DESIPRAMINE HYDROCHLORIDE",
+        "company": "STAT RX USA LLC",
+        "userId": 20
+    },
+    {
+        "id": 78,
+        "drugName": "Quality Choice Mucus Relief DM",
+        "company": "Chain Drug Marketing Association",
+        "userId": 76
+    },
+    {
+        "id": 79,
+        "drugName": "BOTANICAL MOIST PACT",
+        "company": "NATURE REPUBLIC CO., LTD.",
+        "userId": 73
+    },
+    {
+        "id": 80,
+        "drugName": "Magnesium Citrate",
+        "company": "QUALITY CHOICE (Chain Drug Marketing Association)",
+        "userId": 66
+    },
+    {
+        "id": 81,
+        "drugName": "members mark hydrocortisone",
+        "company": "Sam's West Inc",
+        "userId": 40
+    },
+    {
+        "id": 82,
+        "drugName": "Rifampin",
+        "company": "VersaPharm Incorporated",
+        "userId": 6
+    },
+    {
+        "id": 83,
+        "drugName": "Exuviance CoverBlend Concealing Treatment Makeup",
+        "company": "NeoStrata Company Inc.",
+        "userId": 95
+    },
+    {
+        "id": 84,
+        "drugName": "Ludens Honey Lemon Throat Drops",
+        "company": "Prestige Brands Holdings, Inc.",
+        "userId": 83
+    },
+    {
+        "id": 85,
+        "drugName": "PREMIUM HAND SANITIZER",
+        "company": "TARGET",
+        "userId": 96
+    },
+    {
+        "id": 86,
+        "drugName": "Clopidogrel Bisulfate",
+        "company": "Torrent Pharmaceuticals Limited",
+        "userId": 97
+    },
+    {
+        "id": 87,
+        "drugName": "Solutions",
+        "company": "Avon Products, Inc",
+        "userId": 94
+    },
+    {
+        "id": 88,
+        "drugName": "Dutoprol",
+        "company": "AstraZeneca Pharmaceuticals LP",
+        "userId": 15
+    },
+    {
+        "id": 89,
+        "drugName": "Captopril",
+        "company": "REMEDYREPACK INC.",
+        "userId": 21
+    },
+    {
+        "id": 90,
+        "drugName": "Up and Up Mucus Relief",
+        "company": "Target Corporation",
+        "userId": 37
+    },
+    {
+        "id": 91,
+        "drugName": "ADSOL Red Cell Preservation Solution System in Plastic Container (PL 146 Plastic)",
+        "company": "Fenwal, Inc.",
+        "userId": 68
+    },
+    {
+        "id": 92,
+        "drugName": "Oxycodone and Acetaminophen",
+        "company": "American Health Packaging",
+        "userId": 72
+    },
+    {
+        "id": 93,
+        "drugName": "LBEL COULEUR LUXE AMPLIFIER XP",
+        "company": "Ventura International LTD.",
+        "userId": 80
+    },
+    {
+        "id": 94,
+        "drugName": "Lisinopril",
+        "company": "Liberty Pharmaceuticals, Inc.",
+        "userId": 68
+    },
+    {
+        "id": 95,
+        "drugName": "Aveeno Clear Complexion Daily Cleansing",
+        "company": "Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",
+        "userId": 30
+    },
+    {
+        "id": 96,
+        "drugName": "Herbal Aloe Face and Body SPF 30",
+        "company": "Herbalife International of America Inc.",
+        "userId": 11
+    },
+    {
+        "id": 97,
+        "drugName": "Quinapril Hydrochloride",
+        "company": "Greenstone LLC",
+        "userId": 73
+    },
+    {
+        "id": 98,
+        "drugName": "Digoxin",
+        "company": "State of Florida DOH Central Pharmacy",
+        "userId": 68
+    },
+    {
+        "id": 99,
+        "drugName": "Meloxicam",
+        "company": "AvKARE, Inc.",
+        "userId": 82
+    },
+    {
+        "id": 100,
+        "drugName": "Headache",
+        "company": "Natural Health Supply",
+        "userId": 15
+    },
+    {
+        "id": 101,
+        "drugName": "Levalbuterol Hydrochloride",
+        "company": "Ritedose Pharmaceuticals, LLC",
+        "userId": 15
+    },
+    {
+        "id": 102,
+        "drugName": "ARIMIDEX",
+        "company": "AstraZeneca Pharmaceuticals LP",
+        "userId": 11
+    },
+    {
+        "id": 103,
+        "drugName": "Diarrhea",
+        "company": "Natural Health Supply",
+        "userId": 22
+    },
+    {
+        "id": 104,
+        "drugName": "health mart allergy complete d",
+        "company": "McKesson",
+        "userId": 82
+    },
+    {
+        "id": 105,
+        "drugName": "Ipratropium Bromide and Albuterol Sulfate",
+        "company": "Teva Pharmaceuticals USA Inc",
+        "userId": 12
+    },
+    {
+        "id": 106,
+        "drugName": "Pain Reliever",
+        "company": "CVS Pharmacy",
+        "userId": 53
+    },
+    {
+        "id": 107,
+        "drugName": "Mycophenolate Mofetil",
+        "company": "Cardinal Health",
+        "userId": 69
+    },
+    {
+        "id": 108,
+        "drugName": "Quetiapine Fumarate",
+        "company": "Teva Pharmaceuticals USA Inc",
+        "userId": 27
+    },
+    {
+        "id": 109,
+        "drugName": "Sandbur Ragweed Pollen",
+        "company": "Allermed Laboratories, Inc.",
+        "userId": 86
+    },
+    {
+        "id": 110,
+        "drugName": "Losartan Potassium",
+        "company": "St Marys Medical Park Pharmacy",
+        "userId": 66
+    },
+    {
+        "id": 111,
+        "drugName": "Clarinex",
+        "company": "Rebel Distributors Corp",
+        "userId": 92
+    },
+    {
+        "id": 112,
+        "drugName": "Pioglitazone HCL and Metformin HCL",
+        "company": "Torrent Pharmaceuticals Limited",
+        "userId": 3
+    },
+    {
+        "id": 113,
+        "drugName": "M3 Metabolic Mineral Modulator",
+        "company": "King Bio Inc.",
+        "userId": 75
+    },
+    {
+        "id": 114,
+        "drugName": "Jakemans Blueberry",
+        "company": "Jakemans (Confectioners) Ltd.",
+        "userId": 29
+    },
+    {
+        "id": 115,
+        "drugName": "Mephyton",
+        "company": "Carilion Materials Management",
+        "userId": 99
+    },
+    {
+        "id": 116,
+        "drugName": "Extra Strength Back and Body",
+        "company": "DOLGENCORP, LLC",
+        "userId": 82
+    },
+    {
+        "id": 117,
+        "drugName": "Sulfasalazine",
+        "company": "Greenstone LLC",
+        "userId": 49
+    },
+    {
+        "id": 118,
+        "drugName": "Paricalcitol",
+        "company": "Dr. Reddy's Laboratories Limited",
+        "userId": 25
+    },
+    {
+        "id": 119,
+        "drugName": "NASOPEN",
+        "company": "GM Pharmaceuticals, Inc.",
+        "userId": 58
+    },
+    {
+        "id": 120,
+        "drugName": "JUNIPERUS CALIFORNICA POLLEN",
+        "company": "ALK-Abello, Inc.",
+        "userId": 40
+    },
+    {
+        "id": 121,
+        "drugName": "Doxycycline",
+        "company": "Ranbaxy Pharmaceuticals Inc.",
+        "userId": 74
+    },
+    {
+        "id": 122,
+        "drugName": "Acetaminophen And Codeine",
+        "company": "Qualitest Pharmaceuticals",
+        "userId": 40
+    },
+    {
+        "id": 123,
+        "drugName": "PLATANUS OCCIDENTALIS POLLEN",
+        "company": "ALK-Abello, Inc.",
+        "userId": 18
+    },
+    {
+        "id": 124,
+        "drugName": "Absolute Finish Foundation SPF15",
+        "company": "Erno Laszlo, Inc.",
+        "userId": 85
+    },
+    {
+        "id": 125,
+        "drugName": "ELIPHOS",
+        "company": "KAISER FOUNDATION HOSPITALS",
+        "userId": 37
+    },
+    {
+        "id": 126,
+        "drugName": "DOCUSATE SODIUM",
+        "company": "LLC Federal Solutions",
+        "userId": 70
+    },
+    {
+        "id": 127,
+        "drugName": "Fire Ant",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 35
+    },
+    {
+        "id": 128,
+        "drugName": "Seasonal Allergy Formula",
+        "company": "Integrative Healing Institute, LLC",
+        "userId": 27
+    },
+    {
+        "id": 129,
+        "drugName": "Phosphorus comp.",
+        "company": "Uriel Pharmacy Inc.",
+        "userId": 37
+    },
+    {
+        "id": 130,
+        "drugName": "INDOCIN",
+        "company": "Iroko Pharmaceuticals, LLC",
+        "userId": 100
+    },
+    {
+        "id": 131,
+        "drugName": "bronze-n-brighten",
+        "company": "LAURA GELLER MAKE UP INC.",
+        "userId": 94
+    },
+    {
+        "id": 132,
+        "drugName": "Molds, Rusts and Smuts, Cephalosporium acremonium",
+        "company": "Jubilant HollisterStier LLC",
+        "userId": 70
+    },
+    {
+        "id": 133,
+        "drugName": "Aurum Prunus",
+        "company": "Uriel Pharmacy Inc.",
+        "userId": 20
+    },
+    {
+        "id": 134,
+        "drugName": "Candida-Ease",
+        "company": "Apotheca Company",
+        "userId": 36
+    },
+    {
+        "id": 135,
+        "drugName": "TopCare",
+        "company": "Topco Associates LLC",
+        "userId": 21
+    },
+    {
+        "id": 136,
+        "drugName": "Ondansetron",
+        "company": "Lake Erie Medical DBA Quality Care Products LLC",
+        "userId": 79
+    },
+    {
+        "id": 137,
+        "drugName": "Coralite Extra Strength Menthol Pain Relief Sleeve - WRIST",
+        "company": "Shanghai Aquagel Bio-polymer Co., Ltd",
+        "userId": 52
+    },
+    {
+        "id": 138,
+        "drugName": "VIVITROL",
+        "company": "Alkermes, Inc.",
+        "userId": 71
+    },
+    {
+        "id": 139,
+        "drugName": "Penicillin V Potassium",
+        "company": "Blenheim Pharmacal, Inc.",
+        "userId": 2
+    },
+    {
+        "id": 140,
+        "drugName": "MICRELL Antibacterial Ltn Sp",
+        "company": "GOJO Industries, Inc.",
+        "userId": 56
+    },
+    {
+        "id": 141,
+        "drugName": "Turkey",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 72
+    },
+    {
+        "id": 142,
+        "drugName": "Cover Fx Blemish Treatment Concealer N Medium",
+        "company": "Cover FX Skin Care, Inc.",
+        "userId": 87
+    },
+    {
+        "id": 143,
+        "drugName": "Esika",
+        "company": "Ventura Corporation Ltd.",
+        "userId": 11
+    },
+    {
+        "id": 144,
+        "drugName": "Hada Labo Tokyo Protecting Day SPF 30",
+        "company": "The Mentholatum Company",
+        "userId": 73
+    },
+    {
+        "id": 145,
+        "drugName": "OXYGEN",
+        "company": "Prest-O-Sales & Service Inc",
+        "userId": 31
+    },
+    {
+        "id": 146,
+        "drugName": "Cerebral Palsy",
+        "company": "Home Sweet Homeopathics",
+        "userId": 3
+    },
+    {
+        "id": 147,
+        "drugName": "SERTRALINE HYDROCHLORIDE",
+        "company": "Life Line Home Care Services",
+        "userId": 54
+    },
+    {
+        "id": 148,
+        "drugName": "Bahia Grass",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 45
+    },
+    {
+        "id": 149,
+        "drugName": "Candesartan Cilexetil",
+        "company": "Apotex Corp",
+        "userId": 41
+    },
+    {
+        "id": 150,
+        "drugName": "Allergy Rescue 1",
+        "company": "Apotheca Company",
+        "userId": 81
+    },
+    {
+        "id": 151,
+        "drugName": "Sof Skin Baby Petroleum",
+        "company": "Viny Health and Beauty Inc",
+        "userId": 56
+    },
+    {
+        "id": 152,
+        "drugName": "Ondansetron",
+        "company": "Sandoz Inc",
+        "userId": 62
+    },
+    {
+        "id": 153,
+        "drugName": "Sulfacetamide Sodium",
+        "company": "Paddock Laboratories, LLC",
+        "userId": 57
+    },
+    {
+        "id": 154,
+        "drugName": "Depo-Provera",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 45
+    },
+    {
+        "id": 155,
+        "drugName": "ultra strength gas relief",
+        "company": "Premier Value (Chain Drug Consortium, LLC)",
+        "userId": 5
+    },
+    {
+        "id": 156,
+        "drugName": "Trandolapril and Verapamil Hydrochloride",
+        "company": "Glenmark Generics Inc., USA",
+        "userId": 57
+    },
+    {
+        "id": 157,
+        "drugName": "Povidone-Iodine Prep Pad",
+        "company": "Tongzhou Ruihong Medical Products Factory",
+        "userId": 42
+    },
+    {
+        "id": 158,
+        "drugName": "Blistex",
+        "company": "Blistex Inc",
+        "userId": 3
+    },
+    {
+        "id": 159,
+        "drugName": "Arnica Berberis Teucrium",
+        "company": "Uriel Pharmacy Inc.",
+        "userId": 77
+    },
+    {
+        "id": 160,
+        "drugName": "House Dust",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 1
+    },
+    {
+        "id": 161,
+        "drugName": "Daytime Nighttime",
+        "company": "CVS Pharmacy",
+        "userId": 59
+    },
+    {
+        "id": 162,
+        "drugName": "Speed Stick Gear Cool Motion Antiperspirant Deodorant",
+        "company": "Colgate-Palmolive Company",
+        "userId": 38
+    },
+    {
+        "id": 163,
+        "drugName": "Antiseptic Mouth Rinse",
+        "company": "TOPCO ASSOCIATES, LLC",
+        "userId": 29
+    },
+    {
+        "id": 164,
+        "drugName": "OPANA",
+        "company": "Endo Pharmaceuticals",
+        "userId": 18
+    },
+    {
+        "id": 165,
+        "drugName": "DR. RECKEWEG R81 Maldol",
+        "company": "PHARMAZEUTISCHE FABRIK DR. RECKEWEG & CO",
+        "userId": 39
+    },
+    {
+        "id": 166,
+        "drugName": "Amitiza",
+        "company": "Takeda Pharmaceuticals America, Inc.",
+        "userId": 1
+    },
+    {
+        "id": 167,
+        "drugName": "Haloperidol",
+        "company": "REMEDYREPACK INC.",
+        "userId": 28
+    },
+    {
+        "id": 168,
+        "drugName": "Lettuce",
+        "company": "Antigen Laboratories, Inc.",
+        "userId": 97
+    },
+    {
+        "id": 169,
+        "drugName": "QUERCUS ALBA POLLEN",
+        "company": "ALK-Abello, Inc.",
+        "userId": 33
+    },
+    {
+        "id": 170,
+        "drugName": "Naturasil Gout",
+        "company": "Nature's Innovation, Inc.",
+        "userId": 93
+    },
+    {
+        "id": 171,
+        "drugName": "Triamcinolone Acetonide",
+        "company": "Preferred Pharmaceuticals, Inc",
+        "userId": 18
+    },
+    {
+        "id": 172,
+        "drugName": "Listerine Total Care Zero",
+        "company": "Johnson & Johnson Healthcare Products, Division of McNEIL-PPC, Inc.",
+        "userId": 90
+    },
+    {
+        "id": 173,
+        "drugName": "ziprasidone hydrochloride",
+        "company": "REMEDYREPACK INC.",
+        "userId": 61
+    },
+    {
+        "id": 174,
+        "drugName": "Pomalyst",
+        "company": "Celgene Corporation",
+        "userId": 70
+    },
+    {
+        "id": 175,
+        "drugName": "Omeprazole",
+        "company": "Lake Erie Medical DBA Quality Care Products LLC",
+        "userId": 4
+    },
+    {
+        "id": 176,
+        "drugName": "rexall anti itch",
+        "company": "Dolgencorp, LLC",
+        "userId": 35
+    },
+    {
+        "id": 177,
+        "drugName": "GLUCOPHAGE",
+        "company": "Bristol-Myers Squibb Company",
+        "userId": 60
+    },
+    {
+        "id": 178,
+        "drugName": "Broncotron",
+        "company": "SEYER PHARMATEC, INC.",
+        "userId": 35
+    },
+    {
+        "id": 179,
+        "drugName": "miconazole 3",
+        "company": "Western Family Foods Inc",
+        "userId": 82
+    },
+    {
+        "id": 180,
+        "drugName": "Doxazosin",
+        "company": "Aidarex Pharmaceuticals LLC",
+        "userId": 73
+    },
+    {
+        "id": 181,
+        "drugName": "Olay Age Defying Anti-Wrinkle",
+        "company": "Procter & Gamble Manufacturing Company",
+        "userId": 21
+    },
+    {
+        "id": 182,
+        "drugName": "HYDROCORTISONE",
+        "company": "Corepharma LLC.",
+        "userId": 6
+    },
+    {
+        "id": 183,
+        "drugName": "Bellis Perennis Kit Refill",
+        "company": "Washington Homeopathic Products",
+        "userId": 5
+    },
+    {
+        "id": 184,
+        "drugName": "Fibromyalgia Relief",
+        "company": "Apotheca Company",
+        "userId": 10
+    },
+    {
+        "id": 185,
+        "drugName": "Nortriptyline Hydrochloride",
+        "company": "Taro Pharmaceuticals U.S.A., Inc.",
+        "userId": 36
+    },
+    {
+        "id": 186,
+        "drugName": "Good Neighbor Pharmacy Nicotine",
+        "company": "Amerisource Bergen",
+        "userId": 2
+    },
+    {
+        "id": 187,
+        "drugName": "Hydrocodone bitartrate and ibuprofen",
+        "company": "Sun Pharmaceutical Industries, Inc.",
+        "userId": 100
+    },
+    {
+        "id": 188,
+        "drugName": "VASOPRESSIN",
+        "company": "Feneral Injectables & Vaccines, Inc",
+        "userId": 47
+    },
+    {
+        "id": 189,
+        "drugName": "Topcare Miconazole 7",
+        "company": "Topco Associates LLC",
+        "userId": 54
+    },
+    {
+        "id": 190,
+        "drugName": "ETHYL ALCOHOL",
+        "company": "GOJO Industries, Inc.",
+        "userId": 21
+    },
+    {
+        "id": 191,
+        "drugName": "DigiClean E Foam Hand Soap",
+        "company": "Ecolab Inc.",
+        "userId": 13
+    },
+    {
+        "id": 192,
+        "drugName": "Age Defying Blemish Treatment",
+        "company": "Wasatch Product Development, LLC",
+        "userId": 26
+    },
+    {
+        "id": 193,
+        "drugName": "Bupropion Hydrochloride",
+        "company": "Bryant Ranch Prepack",
+        "userId": 52
+    },
+    {
+        "id": 194,
+        "drugName": "On Duty Unscented",
+        "company": "Avon Products, Inc.",
+        "userId": 35
+    },
+    {
+        "id": 195,
+        "drugName": "Banana Boat Sport SPF 30",
+        "company": "Accra-Pac, Inc.",
+        "userId": 16
+    },
+    {
+        "id": 196,
+        "drugName": "Effexor",
+        "company": "Aphena Pharma Solutions - Tennessee, Inc.",
+        "userId": 30
+    },
+    {
+        "id": 197,
+        "drugName": "Avelox",
+        "company": "Cardinal Health",
+        "userId": 12
+    },
+    {
+        "id": 198,
+        "drugName": "miconazole 3",
+        "company": "Kroger Company",
+        "userId": 39
+    },
+    {
+        "id": 199,
+        "drugName": "Mycophenolate Mofetil",
+        "company": "Sandoz Inc",
+        "userId": 36
+    },
+    {
+        "id": 200,
+        "drugName": "Mitoxantrone Hydrochloride",
+        "company": "Pfizer Laboratories Div Pfizer Inc.",
+        "userId": 60
+    },
+    {
+        "id": 201,
+        "drugName": "Botrytis cinerea",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 59
+    },
+    {
+        "id": 202,
+        "drugName": "Triamterene and Hydrochlorothiazide",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 90
+    },
+    {
+        "id": 203,
+        "drugName": "Clearasil",
+        "company": "Reckitt Benckiser LLC",
+        "userId": 80
+    },
+    {
+        "id": 204,
+        "drugName": "Bellagio Sunscreen SPF 15",
+        "company": "Lifetech Resources, LLC",
+        "userId": 1
+    },
+    {
+        "id": 205,
+        "drugName": "Hydrating day moisture broad spectrum SPF15",
+        "company": "Jafra Cosmetics International Inc",
+        "userId": 22
+    },
+    {
+        "id": 206,
+        "drugName": "Paprika",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 16
+    },
+    {
+        "id": 207,
+        "drugName": "Nefazodone Hydrochloride",
+        "company": "AvKARE, Inc.",
+        "userId": 86
+    },
+    {
+        "id": 208,
+        "drugName": "CounterAct",
+        "company": "Melaleuca, Inc.",
+        "userId": 34
+    },
+    {
+        "id": 209,
+        "drugName": "Ketoprofen",
+        "company": "Teva Pharmaceuticals USA Inc",
+        "userId": 61
+    },
+    {
+        "id": 210,
+        "drugName": "Quality Choice Cold Sore Treatment",
+        "company": "Chain Drug Marketing Association Inc",
+        "userId": 75
+    },
+    {
+        "id": 211,
+        "drugName": "Opana",
+        "company": "Lake Erie Medical DBA Quality Care Products LLC",
+        "userId": 91
+    },
+    {
+        "id": 212,
+        "drugName": "Isopropyl",
+        "company": "Vi-Jon",
+        "userId": 48
+    },
+    {
+        "id": 213,
+        "drugName": "Sinus and Allergy Relief PE",
+        "company": "Rite Aid",
+        "userId": 44
+    },
+    {
+        "id": 214,
+        "drugName": "Cefuroxime Axetil",
+        "company": "PD-Rx Pharmaceuticals, Inc.",
+        "userId": 90
+    },
+    {
+        "id": 215,
+        "drugName": "NMC Magic Serum",
+        "company": "NMC (Natural Magma Cosmetics)",
+        "userId": 65
+    },
+    {
+        "id": 216,
+        "drugName": "Lidocaine",
+        "company": "Watson Laboratories, Inc.",
+        "userId": 86
+    },
+    {
+        "id": 217,
+        "drugName": "Suave",
+        "company": "Conopco Inc. d/b/a Unilever",
+        "userId": 81
+    },
+    {
+        "id": 218,
+        "drugName": "Diurex",
+        "company": "Alva-Amco Pharmacal Companies, Inc.",
+        "userId": 74
+    },
+    {
+        "id": 219,
+        "drugName": "Clindamycin Hydrochloride",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 89
+    },
+    {
+        "id": 220,
+        "drugName": "Azithromycin",
+        "company": "REMEDYREPACK INC.",
+        "userId": 34
+    },
+    {
+        "id": 221,
+        "drugName": "Topiclear Xtra lemon beauty",
+        "company": "International Beauty Exchange",
+        "userId": 93
+    },
+    {
+        "id": 222,
+        "drugName": "Betamethasone Valerate",
+        "company": "Actavis Mid Atlantic LLC",
+        "userId": 27
+    },
+    {
+        "id": 223,
+        "drugName": "Impact Fix Prism Two Way Cake",
+        "company": "Dong Sung Pharm. Co., Ltd.",
+        "userId": 48
+    },
+    {
+        "id": 224,
+        "drugName": "Lidocaine Hydrochloride",
+        "company": "REMEDYREPACK INC.",
+        "userId": 71
+    },
+    {
+        "id": 225,
+        "drugName": "methylphenidate hydrochloride CD",
+        "company": "Kremers Urban Pharmaceuticals Inc.",
+        "userId": 92
+    },
+    {
+        "id": 226,
+        "drugName": "Extra Strength Pain Reliever",
+        "company": "Stephen L. LaFrance Pharmacy, Inc.",
+        "userId": 64
+    },
+    {
+        "id": 227,
+        "drugName": "PROAIR",
+        "company": "Rebel Distributors Corp",
+        "userId": 61
+    },
+    {
+        "id": 228,
+        "drugName": "CD DIORSKIN STAR Studio Makeup Spectacular Brightening with sunscreen Broad Spectrum SPF30 060",
+        "company": "Parfums Christian Dior",
+        "userId": 12
+    },
+    {
+        "id": 229,
+        "drugName": "CAPTOPRIL",
+        "company": "Unit Dose Services",
+        "userId": 98
+    },
+    {
+        "id": 230,
+        "drugName": "COMPLEXION CLEAR ACNE TREATMENT",
+        "company": "Results RNA, LLC",
+        "userId": 27
+    },
+    {
+        "id": 231,
+        "drugName": "Simply Beige",
+        "company": "Jafra Cosmetics International Inc",
+        "userId": 79
+    },
+    {
+        "id": 232,
+        "drugName": "Donepezil Hydrochloride",
+        "company": "Unit Dose Services",
+        "userId": 97
+    },
+    {
+        "id": 233,
+        "drugName": "SHISEIDO SUNCARE ULTIMATE",
+        "company": "SHISEIDO AMERICA INC.",
+        "userId": 60
+    },
+    {
+        "id": 234,
+        "drugName": "Orange",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 72
+    },
+    {
+        "id": 235,
+        "drugName": "Venlafaxine Hydrochloride",
+        "company": "REMEDYREPACK INC.",
+        "userId": 17
+    },
+    {
+        "id": 236,
+        "drugName": "pain relief pm",
+        "company": "Meijer Distribution Inc",
+        "userId": 8
+    },
+    {
+        "id": 237,
+        "drugName": "Lipitor",
+        "company": "Bryant Ranch Prepack",
+        "userId": 67
+    },
+    {
+        "id": 238,
+        "drugName": "BladderWell",
+        "company": "Native Remedies, LLC",
+        "userId": 34
+    },
+    {
+        "id": 239,
+        "drugName": "Phoma glomerata",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 79
+    },
+    {
+        "id": 240,
+        "drugName": "Sunscreen Day SPF 50",
+        "company": "Taylor James Ltd",
+        "userId": 22
+    },
+    {
+        "id": 241,
+        "drugName": "Oxycodone Hydrochloride",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 100
+    },
+    {
+        "id": 242,
+        "drugName": "ALA-HIST",
+        "company": "Poly Pharmaceuticals",
+        "userId": 88
+    },
+    {
+        "id": 243,
+        "drugName": "Povidone Iodine",
+        "company": "Jiangsu Province JianErKang Medical Dressing Co. ,Ltd.",
+        "userId": 75
+    },
+    {
+        "id": 244,
+        "drugName": "TOMATO WHITENING SERUM",
+        "company": "SKINFOOD CO., LTD.",
+        "userId": 51
+    },
+    {
+        "id": 245,
+        "drugName": "Cyclobenzaprine Hydrochloride",
+        "company": "REMEDYREPACK INC.",
+        "userId": 15
+    },
+    {
+        "id": 246,
+        "drugName": "Adderall",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 83
+    },
+    {
+        "id": 247,
+        "drugName": "Relief",
+        "company": "VIATREXX BIO INCORPORATED",
+        "userId": 38
+    },
+    {
+        "id": 248,
+        "drugName": "LAMICTAL",
+        "company": "Rebel Distributors Corp",
+        "userId": 71
+    },
+    {
+        "id": 249,
+        "drugName": "STERILE VANCOMYCIN HYDROCHLORIDE",
+        "company": "Akorn - Strides LLC",
+        "userId": 65
+    },
+    {
+        "id": 250,
+        "drugName": "equaline naproxen sodium",
+        "company": "Supervalu Inc",
+        "userId": 81
+    },
+    {
+        "id": 251,
+        "drugName": "Terocin",
+        "company": "Preferred Pharmaceuticals, Inc.",
+        "userId": 3
+    },
+    {
+        "id": 252,
+        "drugName": "SMART PRO",
+        "company": "M J Winston International Ltd..",
+        "userId": 78
+    },
+    {
+        "id": 253,
+        "drugName": "Hydralazine Hydrochloride",
+        "company": "Cardinal Health",
+        "userId": 27
+    },
+    {
+        "id": 254,
+        "drugName": "Thyrolar",
+        "company": "Forest Laboratories, Inc",
+        "userId": 78
+    },
+    {
+        "id": 255,
+        "drugName": "Methylphenidate Hydrochloride",
+        "company": "Mallinckrodt, Inc.",
+        "userId": 97
+    },
+    {
+        "id": 256,
+        "drugName": "LES BEIGES",
+        "company": "CHANEL PARFUMS BEAUTE",
+        "userId": 100
+    },
+    {
+        "id": 257,
+        "drugName": "AZITHROMYCIN",
+        "company": "REMEDYREPACK INC.",
+        "userId": 76
+    },
+    {
+        "id": 258,
+        "drugName": "PROGESTERONE",
+        "company": "AvKARE, Inc.",
+        "userId": 16
+    },
+    {
+        "id": 259,
+        "drugName": "Nabumetone",
+        "company": "NCS HealthCare of KY, Inc dba Vangard Labs",
+        "userId": 50
+    },
+    {
+        "id": 260,
+        "drugName": "Insomnia",
+        "company": "Newton Laboratories, Inc.",
+        "userId": 14
+    },
+    {
+        "id": 261,
+        "drugName": "SOMAVERT",
+        "company": "Pharmacia and Upjohn Company",
+        "userId": 66
+    },
+    {
+        "id": 262,
+        "drugName": "HEMORRHOIDS PROCTALGIA",
+        "company": "Natural Health Supply",
+        "userId": 26
+    },
+    {
+        "id": 263,
+        "drugName": "After Bite The Itch Eraser",
+        "company": "Tender Corporation",
+        "userId": 92
+    },
+    {
+        "id": 264,
+        "drugName": "Clindamycin Hydrochloride",
+        "company": "Lannett Company, Inc.",
+        "userId": 25
+    },
+    {
+        "id": 265,
+        "drugName": "CareOne Mucus Relief",
+        "company": "American Sales Company",
+        "userId": 1
+    },
+    {
+        "id": 266,
+        "drugName": "Naproxen",
+        "company": "Blenheim Pharmacal, Inc.",
+        "userId": 15
+    },
+    {
+        "id": 267,
+        "drugName": "Imipramine Hydrochloride",
+        "company": "Sandoz Inc",
+        "userId": 34
+    },
+    {
+        "id": 268,
+        "drugName": "Levofloxacin",
+        "company": "Akorn, Inc.",
+        "userId": 96
+    },
+    {
+        "id": 269,
+        "drugName": "Benazepril hydrochloride",
+        "company": "Northwind Pharmaceuticals",
+        "userId": 15
+    },
+    {
+        "id": 270,
+        "drugName": "Meclizine Hydrochloride",
+        "company": "Bryant Ranch Prepack",
+        "userId": 16
+    },
+    {
+        "id": 271,
+        "drugName": "OXYGEN",
+        "company": "Breathe Easy Therapeutics, Inc",
+        "userId": 91
+    },
+    {
+        "id": 272,
+        "drugName": "Tolnaftate",
+        "company": "LIFElabs, a Division of Atico International, USA, INC.",
+        "userId": 65
+    },
+    {
+        "id": 273,
+        "drugName": "Purminerals 4 in 1 Makeup SPF 15 Tan",
+        "company": "PUR MINERALS",
+        "userId": 55
+    },
+    {
+        "id": 274,
+        "drugName": "INFINITE ALOE ALL-IN-ONE SKIN CARE",
+        "company": "Economical Solutions, Inc. (DBA INFINITE ALOE)",
+        "userId": 34
+    },
+    {
+        "id": 275,
+        "drugName": "Escitalopram",
+        "company": "Lupin Pharmaceuticals, Inc.",
+        "userId": 79
+    },
+    {
+        "id": 276,
+        "drugName": "BioFerr 90",
+        "company": "Biocomp Pharma, Inc.",
+        "userId": 28
+    },
+    {
+        "id": 277,
+        "drugName": "Paroxetine Hydrochloride",
+        "company": "REMEDYREPACK INC.",
+        "userId": 30
+    },
+    {
+        "id": 278,
+        "drugName": "Acetaminophen",
+        "company": "Kroger Company",
+        "userId": 81
+    },
+    {
+        "id": 279,
+        "drugName": "hemorrhoidal",
+        "company": "Publix Super Markets Inc",
+        "userId": 71
+    },
+    {
+        "id": 280,
+        "drugName": "Low Dose Aspirin",
+        "company": "Pharmadel LLC",
+        "userId": 23
+    },
+    {
+        "id": 281,
+        "drugName": "Divalproex Sodium Extended-Release",
+        "company": "TYA Pharmaceuticals",
+        "userId": 73
+    },
+    {
+        "id": 282,
+        "drugName": "dg health miconazole 3",
+        "company": "Dolgencorp Inc",
+        "userId": 73
+    },
+    {
+        "id": 283,
+        "drugName": "Ciclopirox",
+        "company": "E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc.",
+        "userId": 39
+    },
+    {
+        "id": 284,
+        "drugName": "Colic",
+        "company": "Apotheca Company",
+        "userId": 80
+    },
+    {
+        "id": 285,
+        "drugName": "ISOVUE",
+        "company": "BRACCO DIAGNOSTICS INC",
+        "userId": 16
+    },
+    {
+        "id": 286,
+        "drugName": "TYLENOL Extra Strength",
+        "company": "A-S Medication Solutions LLC",
+        "userId": 17
+    },
+    {
+        "id": 287,
+        "drugName": "Ibuprofen",
+        "company": "Stephen L. LaFrance Pharmacy, Inc.",
+        "userId": 26
+    },
+    {
+        "id": 288,
+        "drugName": "Lisinopril",
+        "company": "Wockhardt USA LLC.",
+        "userId": 34
+    },
+    {
+        "id": 289,
+        "drugName": "equaline pain relief",
+        "company": "Supervalu Inc",
+        "userId": 92
+    },
+    {
+        "id": 290,
+        "drugName": "INSTANT HAND SANITIZER",
+        "company": "CVS PHARMACY",
+        "userId": 53
+    },
+    {
+        "id": 291,
+        "drugName": "Vanilla Cupcake Antibacterial Hand Sanitizer",
+        "company": "Enchante Accessories",
+        "userId": 55
+    },
+    {
+        "id": 292,
+        "drugName": "Tekamlo",
+        "company": "Novartis Pharmaceuticals Corporation",
+        "userId": 92
+    },
+    {
+        "id": 293,
+        "drugName": "Tinted Moisturizer SPF 20",
+        "company": "Kamins Dermatologics Inc.",
+        "userId": 10
+    },
+    {
+        "id": 294,
+        "drugName": "Pramipexole Dihydrochloride",
+        "company": "AvKARE, Inc.",
+        "userId": 25
+    },
+    {
+        "id": 295,
+        "drugName": "HAMSOA YUYU DERMA119",
+        "company": "HAMSOA PHARMACEUTICAL CO., LTD.",
+        "userId": 29
+    },
+    {
+        "id": 296,
+        "drugName": "Amiodarone HCl",
+        "company": "Libertas Pharma, Inc.",
+        "userId": 55
+    },
+    {
+        "id": 297,
+        "drugName": "Lysol",
+        "company": "Reckitt Benckiser LLC",
+        "userId": 40
+    },
+    {
+        "id": 298,
+        "drugName": "Sulfasalazine",
+        "company": "Aphena Pharma Solutions - Tennessee, LLC",
+        "userId": 70
+    },
+    {
+        "id": 299,
+        "drugName": "NIGHTTIME SLEEP AID Maximum Strength",
+        "company": "Wal-Mart Stores Inc",
+        "userId": 51
+    },
+    {
+        "id": 300,
+        "drugName": "Proquin",
+        "company": "Depomed, Inc.",
+        "userId": 48
+    },
+    {
+        "id": 301,
+        "drugName": "Evista",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 31
+    },
+    {
+        "id": 302,
+        "drugName": "Methyldopa and Hydrochlorothiazide",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 83
+    },
+    {
+        "id": 303,
+        "drugName": "Lyrica",
+        "company": "Lake Erie Medical & Surgical Supply, DBA Quality Care Products, LLC",
+        "userId": 43
+    },
+    {
+        "id": 304,
+        "drugName": "simply right minoxidil",
+        "company": "Sam's West Inc",
+        "userId": 61
+    },
+    {
+        "id": 305,
+        "drugName": "Cevimeline Hydrochloride",
+        "company": "Pack Pharmaceuticals, LLC",
+        "userId": 49
+    },
+    {
+        "id": 306,
+        "drugName": "Cyclopentolate Hydrochloride",
+        "company": "Rebel Distributors Corp",
+        "userId": 93
+    },
+    {
+        "id": 307,
+        "drugName": "Chlorhexidine Gluconate",
+        "company": "Atlantic Biologicals Corps",
+        "userId": 69
+    },
+    {
+        "id": 308,
+        "drugName": "Antiseptic",
+        "company": "Geiss, Destin and Dunn, Inc",
+        "userId": 84
+    },
+    {
+        "id": 309,
+        "drugName": "Soft and Silky Antiseptic",
+        "company": "Kutol Products Company, Inc.",
+        "userId": 28
+    },
+    {
+        "id": 310,
+        "drugName": "Lyrica",
+        "company": "Unit Dose Services",
+        "userId": 38
+    },
+    {
+        "id": 311,
+        "drugName": "Moore Medical Antacid",
+        "company": "Moore Medical LLC",
+        "userId": 14
+    },
+    {
+        "id": 312,
+        "drugName": "Itch Relief",
+        "company": "American Sales Company",
+        "userId": 99
+    },
+    {
+        "id": 313,
+        "drugName": "Mineral Oil",
+        "company": "Sunmark",
+        "userId": 87
+    },
+    {
+        "id": 314,
+        "drugName": "Progena",
+        "company": "Meditrend, Inc. DBA Progena Professional Formulations",
+        "userId": 49
+    },
+    {
+        "id": 315,
+        "drugName": "Oxybutynin Chloride",
+        "company": "AvPAK",
+        "userId": 68
+    },
+    {
+        "id": 316,
+        "drugName": "Mucus and Cough Relief",
+        "company": "TARGET Corporation",
+        "userId": 41
+    },
+    {
+        "id": 317,
+        "drugName": "Metronidazole",
+        "company": "Global Pharmaceuticals, Division of Impax Laboratories Inc.",
+        "userId": 16
+    },
+    {
+        "id": 318,
+        "drugName": "Secret Scent Expressions",
+        "company": "Procter & Gamble Manufacturing Company",
+        "userId": 41
+    },
+    {
+        "id": 319,
+        "drugName": "Brussels Sprout",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 54
+    },
+    {
+        "id": 320,
+        "drugName": "Oxycodone Hydrochloride",
+        "company": "Lehigh Valley Technologies, Inc.",
+        "userId": 58
+    },
+    {
+        "id": 321,
+        "drugName": "Pure Hands",
+        "company": "Buck Head Products & Systems",
+        "userId": 27
+    },
+    {
+        "id": 322,
+        "drugName": "Gabapentin",
+        "company": "Proficient Rx LP",
+        "userId": 35
+    },
+    {
+        "id": 323,
+        "drugName": "Sebum Clearing Masque",
+        "company": "Dermalogica",
+        "userId": 37
+    },
+    {
+        "id": 324,
+        "drugName": "Clearasil Daily Clear",
+        "company": "Reckitt Benckiser LLC",
+        "userId": 11
+    },
+    {
+        "id": 325,
+        "drugName": "CLE DE PEAU BEAUTE FOUNDATION L",
+        "company": "SHISEIDO AMERICAS CORPORATION",
+        "userId": 35
+    },
+    {
+        "id": 326,
+        "drugName": "Drainage-Tone",
+        "company": "Energetix Corp",
+        "userId": 88
+    },
+    {
+        "id": 327,
+        "drugName": "Ropinirole",
+        "company": "Roxane Laboratories, Inc",
+        "userId": 69
+    },
+    {
+        "id": 328,
+        "drugName": "hemorrhoidal",
+        "company": "CVS Pharmacy",
+        "userId": 15
+    },
+    {
+        "id": 329,
+        "drugName": "Ibuprofen",
+        "company": "Geri-Care Pharmaceutical Corp",
+        "userId": 9
+    },
+    {
+        "id": 330,
+        "drugName": "Loratadine",
+        "company": "Preferred Pharmaceuticals, Inc",
+        "userId": 32
+    },
+    {
+        "id": 331,
+        "drugName": "Lisinopril and Hydrochlorothiazide",
+        "company": "International Labs, Inc.",
+        "userId": 50
+    },
+    {
+        "id": 332,
+        "drugName": "OXYGEN",
+        "company": "Lampton Welding Supply Company, Inc",
+        "userId": 3
+    },
+    {
+        "id": 333,
+        "drugName": "BANANA BOAT",
+        "company": "Energizer Personal Care LLC",
+        "userId": 97
+    },
+    {
+        "id": 334,
+        "drugName": "Amlobenz",
+        "company": "Bryant Ranch Prepack",
+        "userId": 70
+    },
+    {
+        "id": 335,
+        "drugName": "American Elm",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 14
+    },
+    {
+        "id": 336,
+        "drugName": "Dermagesic",
+        "company": "Llorens Pharmaceuticals International Division",
+        "userId": 78
+    },
+    {
+        "id": 337,
+        "drugName": "Motofen",
+        "company": "Valeant Pharmaceuticals North America LLC",
+        "userId": 89
+    },
+    {
+        "id": 338,
+        "drugName": "Lymphdrainex",
+        "company": "Energique, Inc.",
+        "userId": 66
+    },
+    {
+        "id": 339,
+        "drugName": "Dawn Ultra Antibacterial Hand",
+        "company": "Procter & Gamble Manufacturing Company",
+        "userId": 87
+    },
+    {
+        "id": 340,
+        "drugName": "Dexamethasone",
+        "company": "A-S Medication Solutions LLC",
+        "userId": 89
+    },
+    {
+        "id": 341,
+        "drugName": "Bacitracin",
+        "company": "Water-Jel Technologies",
+        "userId": 99
+    },
+    {
+        "id": 342,
+        "drugName": "Benzamycin Pak",
+        "company": "Valeant Pharmaceuticals North America LLC",
+        "userId": 90
+    },
+    {
+        "id": 343,
+        "drugName": "Ondansetron",
+        "company": "Aurobindo Pharma Limited",
+        "userId": 67
+    },
+    {
+        "id": 344,
+        "drugName": "Baclofen",
+        "company": "Preferred Pharmaceuticals, Inc.",
+        "userId": 45
+    },
+    {
+        "id": 345,
+        "drugName": "Moisture Renew",
+        "company": "Rimmel Inc.",
+        "userId": 60
+    },
+    {
+        "id": 346,
+        "drugName": "CORTISONE ACETATE",
+        "company": "Hikma Pharmaceutical",
+        "userId": 5
+    },
+    {
+        "id": 347,
+        "drugName": "Vituz",
+        "company": "Hawthorn Pharmaceuticals, Inc.",
+        "userId": 50
+    },
+    {
+        "id": 348,
+        "drugName": "Oxandrolone",
+        "company": "American Health Packaging",
+        "userId": 36
+    },
+    {
+        "id": 349,
+        "drugName": "tension headache relief",
+        "company": "Target Corporation",
+        "userId": 43
+    },
+    {
+        "id": 350,
+        "drugName": "Acute Asthma Relief",
+        "company": "Homeocare Laboratories",
+        "userId": 32
+    },
+    {
+        "id": 351,
+        "drugName": "Naprelan",
+        "company": "Shionogi Inc.",
+        "userId": 95
+    },
+    {
+        "id": 352,
+        "drugName": "Pepcid",
+        "company": "Marathon Pharmaceuticals, LLC",
+        "userId": 78
+    },
+    {
+        "id": 353,
+        "drugName": "telmisartan",
+        "company": "Cadila Healthcare Limited",
+        "userId": 32
+    },
+    {
+        "id": 354,
+        "drugName": "Amoxicillin",
+        "company": "Hikma Pharmaceutical",
+        "userId": 31
+    },
+    {
+        "id": 355,
+        "drugName": "Sulindac",
+        "company": "Epic Pharma, LLC",
+        "userId": 100
+    },
+    {
+        "id": 356,
+        "drugName": "Intense Care Snail ampoule",
+        "company": "TONYMOLY CO., LTD.",
+        "userId": 86
+    },
+    {
+        "id": 357,
+        "drugName": "TACLONEX",
+        "company": "LEO Pharma Inc.",
+        "userId": 7
+    },
+    {
+        "id": 358,
+        "drugName": "Nexiclon XR",
+        "company": "Tris Pharma, Inc.",
+        "userId": 15
+    },
+    {
+        "id": 359,
+        "drugName": "Ranitidine",
+        "company": "Glenmark Generics Inc., USA",
+        "userId": 62
+    },
+    {
+        "id": 360,
+        "drugName": "Black Olive",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 43
+    },
+    {
+        "id": 361,
+        "drugName": "Petroleum Skin Protectant",
+        "company": "Walgreen Co",
+        "userId": 3
+    },
+    {
+        "id": 362,
+        "drugName": "ActivOn Ultra Strength",
+        "company": "Family First Pharmaceuticals, Inc.",
+        "userId": 33
+    },
+    {
+        "id": 363,
+        "drugName": "Obao Piel Delicada",
+        "company": "Cosbel S.A de C.V.",
+        "userId": 75
+    },
+    {
+        "id": 364,
+        "drugName": "Solidago Compositum",
+        "company": "Heel Inc",
+        "userId": 29
+    },
+    {
+        "id": 365,
+        "drugName": "Hydrocodone Bitartrate and Acetaminophen",
+        "company": "REMEDYREPACK INC.",
+        "userId": 23
+    },
+    {
+        "id": 366,
+        "drugName": "Ropinirole Hydrochloride",
+        "company": "American Health Packaging",
+        "userId": 39
+    },
+    {
+        "id": 367,
+        "drugName": "Tizanidine",
+        "company": "Clinical Solutions Wholesale",
+        "userId": 10
+    },
+    {
+        "id": 368,
+        "drugName": "Solar Protection Formula SPF 58",
+        "company": "Fallien Cosmeceuticals, LTD.",
+        "userId": 72
+    },
+    {
+        "id": 369,
+        "drugName": "Dr G Whitening FORTIFIER by EGF",
+        "company": "The Doctor's Cosmetic Inc",
+        "userId": 57
+    },
+    {
+        "id": 370,
+        "drugName": "Umcka ColdCare Alcohol-Free",
+        "company": "Nature's Way Products, Inc.",
+        "userId": 83
+    },
+    {
+        "id": 371,
+        "drugName": "Touch Free Hand",
+        "company": "Personal Care Products",
+        "userId": 75
+    },
+    {
+        "id": 372,
+        "drugName": "HILL COUNTRY ESSENTIALS",
+        "company": "HEB",
+        "userId": 21
+    },
+    {
+        "id": 373,
+        "drugName": "Anti-Diarrheal Loperamide HCl",
+        "company": "TOP CARE (Topco Associates LLC)",
+        "userId": 6
+    },
+    {
+        "id": 374,
+        "drugName": "Appetite - Craving Control",
+        "company": "Newton Laboratories, Inc.",
+        "userId": 50
+    },
+    {
+        "id": 375,
+        "drugName": "Felodipine",
+        "company": "HERITAGE PHARMACEUTICALS INC.",
+        "userId": 42
+    },
+    {
+        "id": 376,
+        "drugName": "biclora",
+        "company": "Hawthorn Pharmaceuticals, Inc",
+        "userId": 14
+    },
+    {
+        "id": 377,
+        "drugName": "ALOE SUN",
+        "company": "SKINFOOD CO., LTD.",
+        "userId": 29
+    },
+    {
+        "id": 378,
+        "drugName": "HYPERICUM PERFORATUM",
+        "company": "HOMEOLAB USA INC",
+        "userId": 52
+    },
+    {
+        "id": 379,
+        "drugName": "oxycodone hydrochloride",
+        "company": "Sandoz Inc",
+        "userId": 18
+    },
+    {
+        "id": 380,
+        "drugName": "SUNMARK COLD AND COUGH DM",
+        "company": "McKesson",
+        "userId": 15
+    },
+    {
+        "id": 381,
+        "drugName": "Red Snapper",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 55
+    },
+    {
+        "id": 382,
+        "drugName": "Prometh with Dextromethorphan",
+        "company": "Actavis Mid Atlantic LLC",
+        "userId": 21
+    },
+    {
+        "id": 383,
+        "drugName": "Pancuronium Bromide",
+        "company": "Hospira, Inc.",
+        "userId": 17
+    },
+    {
+        "id": 384,
+        "drugName": "Silver Nitrate",
+        "company": "Gordon Laboratories",
+        "userId": 78
+    },
+    {
+        "id": 385,
+        "drugName": "Aplicare Povidone Iodine Swabstick",
+        "company": "Aplicare, Inc.",
+        "userId": 44
+    },
+    {
+        "id": 386,
+        "drugName": "Ibuprofen",
+        "company": "H E B",
+        "userId": 21
+    },
+    {
+        "id": 387,
+        "drugName": "SEROQUEL",
+        "company": "Rebel Distributors Corp",
+        "userId": 31
+    },
+    {
+        "id": 388,
+        "drugName": "Baclofen",
+        "company": "NCS HealthCare of KY, Inc dba Vangard Labs",
+        "userId": 30
+    },
+    {
+        "id": 389,
+        "drugName": "good neighbor pharmacy nicotine",
+        "company": "Amerisource Bergen",
+        "userId": 71
+    },
+    {
+        "id": 390,
+        "drugName": "NUCYNTA",
+        "company": "Janssen Pharmaceuticals, Inc.",
+        "userId": 75
+    },
+    {
+        "id": 391,
+        "drugName": "Aveeno Positively Ageless",
+        "company": "Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",
+        "userId": 51
+    },
+    {
+        "id": 392,
+        "drugName": "QCare Oral Cleansing and Suctioning System, Q4",
+        "company": "Sage Products, LLC",
+        "userId": 65
+    },
+    {
+        "id": 393,
+        "drugName": "NICORETTE",
+        "company": "GlaxoSmithKline Consumer Healthcare LP",
+        "userId": 40
+    },
+    {
+        "id": 394,
+        "drugName": "ATORVASTATIN CALCIUM",
+        "company": "Aphena Pharma Solutions - Tennessee, LLC",
+        "userId": 70
+    },
+    {
+        "id": 395,
+        "drugName": "Tramadol Hydrochloride",
+        "company": "REMEDYREPACK INC.",
+        "userId": 50
+    },
+    {
+        "id": 396,
+        "drugName": "Dutoprol",
+        "company": "AstraZeneca LP",
+        "userId": 93
+    },
+    {
+        "id": 397,
+        "drugName": "HYDROMORPHONE HYDROCHLORIDE",
+        "company": "Mallinckrodt, Inc.",
+        "userId": 70
+    },
+    {
+        "id": 398,
+        "drugName": "simvastatin",
+        "company": "Clinical Solutions Wholesale",
+        "userId": 50
+    },
+    {
+        "id": 399,
+        "drugName": "MALE POWERHOUSE",
+        "company": "Infinite Therapies of Sarasota, Inc.",
+        "userId": 85
+    },
+    {
+        "id": 400,
+        "drugName": "arthritis pain relief",
+        "company": "Kroger Company",
+        "userId": 54
+    },
+    {
+        "id": 401,
+        "drugName": "Perfecting Liquid Foundation Golden Beige",
+        "company": "Arbonne International, LLC",
+        "userId": 87
+    },
+    {
+        "id": 402,
+        "drugName": "Bumetanide",
+        "company": "Cardinal Health",
+        "userId": 44
+    },
+    {
+        "id": 403,
+        "drugName": "Diltiazem Hydrochloride",
+        "company": "Major Pharmaceuticals",
+        "userId": 46
+    },
+    {
+        "id": 404,
+        "drugName": "Amber Amethyst Teething Relief",
+        "company": "Uriel Pharmacy Inc.",
+        "userId": 55
+    },
+    {
+        "id": 405,
+        "drugName": "Max Revive",
+        "company": "Albert Max, Inc.",
+        "userId": 83
+    },
+    {
+        "id": 406,
+        "drugName": "Sleep Aid",
+        "company": "L.N.K. International, Inc.",
+        "userId": 31
+    },
+    {
+        "id": 407,
+        "drugName": "HAWAIIAN Tropic",
+        "company": "Energizer Personal Care LLC",
+        "userId": 10
+    },
+    {
+        "id": 408,
+        "drugName": "Kroger Medicated Wipes",
+        "company": "The Kroger Co.",
+        "userId": 56
+    },
+    {
+        "id": 409,
+        "drugName": "amlodipine besylate and benazepril hydrochloride",
+        "company": "NCS HealthCare of KY, Inc dba Vangard Labs",
+        "userId": 31
+    },
+    {
+        "id": 410,
+        "drugName": "care one calcium antacid",
+        "company": "American Sales Company",
+        "userId": 26
+    },
+    {
+        "id": 411,
+        "drugName": "Cortizone 10 Intensive Healing",
+        "company": "Chattem, Inc.",
+        "userId": 8
+    },
+    {
+        "id": 412,
+        "drugName": "Ionite APF",
+        "company": "Dharma Research, inc.",
+        "userId": 64
+    },
+    {
+        "id": 413,
+        "drugName": "All Day Pain Relief",
+        "company": "CVS Pharmacy",
+        "userId": 62
+    },
+    {
+        "id": 414,
+        "drugName": "good sense cool heat",
+        "company": "L. Perrigo Company",
+        "userId": 59
+    },
+    {
+        "id": 415,
+        "drugName": "FLONASE",
+        "company": "REMEDYREPACK INC.",
+        "userId": 49
+    },
+    {
+        "id": 416,
+        "drugName": "Citranatal Harmony 2.1",
+        "company": "Mission Pharmacal Company",
+        "userId": 38
+    },
+    {
+        "id": 417,
+        "drugName": "PROFESSIONAL WHITENING SYSTEM WHITENING MOUTH WASH",
+        "company": "AKG Innovations LLC",
+        "userId": 44
+    },
+    {
+        "id": 418,
+        "drugName": "Alba Mineral Terra Tint SPF15 Blaze",
+        "company": "The Hain Celestial Group, Inc.",
+        "userId": 13
+    },
+    {
+        "id": 419,
+        "drugName": "Amitriptyline Hydrochloride",
+        "company": "Aidarex Pharmaceuticals LLC",
+        "userId": 15
+    },
+    {
+        "id": 420,
+        "drugName": "Epinephrine",
+        "company": "Belcher Pharmaceuticals, LLC",
+        "userId": 50
+    },
+    {
+        "id": 421,
+        "drugName": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "company": "Bryant Ranch Prepack",
+        "userId": 30
+    },
+    {
+        "id": 422,
+        "drugName": "Equisetum Viscum",
+        "company": "Uriel Pharmacy Inc.",
+        "userId": 29
+    },
+    {
+        "id": 423,
+        "drugName": "Mineral Oil",
+        "company": "Walmart",
+        "userId": 42
+    },
+    {
+        "id": 424,
+        "drugName": "LOVASTATIN",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 95
+    },
+    {
+        "id": 425,
+        "drugName": "Red Kidney Beans",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 7
+    },
+    {
+        "id": 426,
+        "drugName": "Amantadine Hydrochloride",
+        "company": "A-S Medication Solutions LLC",
+        "userId": 96
+    },
+    {
+        "id": 427,
+        "drugName": "FLUOXETINE",
+        "company": "Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC",
+        "userId": 87
+    },
+    {
+        "id": 428,
+        "drugName": "Verapamil Hydrochloride",
+        "company": "Bryant Ranch Prepack",
+        "userId": 46
+    },
+    {
+        "id": 429,
+        "drugName": "Parrot Head Fins Up 50 Mist Sunscreen",
+        "company": "Sun & Skin Care Research, LLC",
+        "userId": 27
+    },
+    {
+        "id": 430,
+        "drugName": "Pioglitazone",
+        "company": "Carilion Materials Management",
+        "userId": 59
+    },
+    {
+        "id": 431,
+        "drugName": "DR WALTONS PETROLEUM",
+        "company": "Dr. Waltons, Incorporated",
+        "userId": 26
+    },
+    {
+        "id": 432,
+        "drugName": "Asthma Complex",
+        "company": "Nova Homeopathic Therapeutics, Inc.",
+        "userId": 56
+    },
+    {
+        "id": 433,
+        "drugName": "Antibacterial Foam",
+        "company": "Chester Packaging, LLC",
+        "userId": 76
+    },
+    {
+        "id": 434,
+        "drugName": "PERFECTION LUMIERE VELVET",
+        "company": "CHANEL PARFUMS BEAUTE",
+        "userId": 61
+    },
+    {
+        "id": 435,
+        "drugName": "Diabetic Tussin DM",
+        "company": "Health Care Products",
+        "userId": 28
+    },
+    {
+        "id": 436,
+        "drugName": "Cromolyn Sodium",
+        "company": "Cardinal Health",
+        "userId": 23
+    },
+    {
+        "id": 437,
+        "drugName": "Budesonide",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 10
+    },
+    {
+        "id": 438,
+        "drugName": "Sulfacetamide Sodium",
+        "company": "REMEDYREPACK INC.",
+        "userId": 65
+    },
+    {
+        "id": 439,
+        "drugName": "propranolol hydrochloride",
+        "company": "Breckenridge Pharmaceutical, Inc.",
+        "userId": 93
+    },
+    {
+        "id": 440,
+        "drugName": "Allergy",
+        "company": "Western Family Foods Inc",
+        "userId": 14
+    },
+    {
+        "id": 441,
+        "drugName": "PAROXETINE",
+        "company": "Bryant Ranch Prepack",
+        "userId": 24
+    },
+    {
+        "id": 442,
+        "drugName": "topcare hemorrhoidal",
+        "company": "Topco Associates LLC",
+        "userId": 42
+    },
+    {
+        "id": 443,
+        "drugName": "Warfarin Sodium",
+        "company": "REMEDYREPACK INC.",
+        "userId": 58
+    },
+    {
+        "id": 444,
+        "drugName": "Pre-Dental Visit",
+        "company": "Apotheca Company",
+        "userId": 73
+    },
+    {
+        "id": 445,
+        "drugName": "Petroleum Skin Protectant",
+        "company": "Family Dollar Services, Inc",
+        "userId": 21
+    },
+    {
+        "id": 446,
+        "drugName": "Ciprofloxacin",
+        "company": "Dr Reddy's Laboratories",
+        "userId": 35
+    },
+    {
+        "id": 447,
+        "drugName": "Midazolam",
+        "company": "Sagent Pharmaceuticals",
+        "userId": 40
+    },
+    {
+        "id": 448,
+        "drugName": "Levetiracetam",
+        "company": "Dr. Reddy's Laboratories Limited",
+        "userId": 75
+    },
+    {
+        "id": 449,
+        "drugName": "Magnesium Citrate",
+        "company": "Rebel Distributors Corp",
+        "userId": 88
+    },
+    {
+        "id": 450,
+        "drugName": "Aspirin",
+        "company": "H E B",
+        "userId": 91
+    },
+    {
+        "id": 451,
+        "drugName": "Ambien",
+        "company": "A-S Medication Solutions LLC",
+        "userId": 24
+    },
+    {
+        "id": 452,
+        "drugName": "Melaleuca Pollen",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 20
+    },
+    {
+        "id": 453,
+        "drugName": "Penicillium notatum",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 15
+    },
+    {
+        "id": 454,
+        "drugName": "Clean and Clear Morning Glow Moisturizer",
+        "company": "Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",
+        "userId": 10
+    },
+    {
+        "id": 455,
+        "drugName": "Isopropyl Alcohol",
+        "company": "Rite Aid",
+        "userId": 99
+    },
+    {
+        "id": 456,
+        "drugName": "Levocetirizine Dihydrochloride",
+        "company": "Aidarex Pharmaceuticals LLC",
+        "userId": 15
+    },
+    {
+        "id": 457,
+        "drugName": "ANTIMICROBIAL CLEANSER",
+        "company": "AFFLAB, Affiliated Laboratories, a Division of AFFLINK",
+        "userId": 97
+    },
+    {
+        "id": 458,
+        "drugName": "Isopropyl Alcohol Sepp",
+        "company": "CareFusion 213 LLC",
+        "userId": 31
+    },
+    {
+        "id": 459,
+        "drugName": "Gabapentin",
+        "company": "H.J. Harkins Company, Inc.",
+        "userId": 6
+    },
+    {
+        "id": 460,
+        "drugName": "eZ Foam Foaming Antibacterial Hand",
+        "company": "Kutol Products Company, Inc.",
+        "userId": 49
+    },
+    {
+        "id": 461,
+        "drugName": "Tussin DM",
+        "company": "Nash-Finch Company",
+        "userId": 21
+    },
+    {
+        "id": 462,
+        "drugName": "CENTER-AL - CYNODON DACTYLON POLLEN",
+        "company": "ALK-Abello, Inc.",
+        "userId": 59
+    },
+    {
+        "id": 463,
+        "drugName": "Childrens Mucinex Multi-Symptom Cold",
+        "company": "Reckitt Benckiser LLC",
+        "userId": 52
+    },
+    {
+        "id": 464,
+        "drugName": "AVANDAMET",
+        "company": "GlaxoSmithKline LLC",
+        "userId": 13
+    },
+    {
+        "id": 465,
+        "drugName": "Enalapril Maleate and Hydrochlorothiazide",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 71
+    },
+    {
+        "id": 466,
+        "drugName": "Topiramate",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 18
+    },
+    {
+        "id": 467,
+        "drugName": "LBel",
+        "company": "Ventura International LTD",
+        "userId": 84
+    },
+    {
+        "id": 468,
+        "drugName": "Aspergillus niger",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 57
+    },
+    {
+        "id": 469,
+        "drugName": "Loratadine ODT",
+        "company": "Premier Value",
+        "userId": 63
+    },
+    {
+        "id": 470,
+        "drugName": "ACER NEGUNDO POLLEN",
+        "company": "ALK-Abello, Inc.",
+        "userId": 76
+    },
+    {
+        "id": 471,
+        "drugName": "Hydralazine",
+        "company": "Cardinal Health",
+        "userId": 47
+    },
+    {
+        "id": 472,
+        "drugName": "DUREZOL",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 96
+    },
+    {
+        "id": 473,
+        "drugName": "Mirtazapine",
+        "company": "State of Florida DOH Central Pharmacy",
+        "userId": 66
+    },
+    {
+        "id": 474,
+        "drugName": "Ear Discomfort",
+        "company": "Liddell Laboratories, Inc.",
+        "userId": 61
+    },
+    {
+        "id": 475,
+        "drugName": "Diclofenac Sodium",
+        "company": "Stat Rx USA",
+        "userId": 53
+    },
+    {
+        "id": 476,
+        "drugName": "Amlodipine and Benazepril Hydrochloride",
+        "company": "Aurobindo Pharma Limited",
+        "userId": 95
+    },
+    {
+        "id": 477,
+        "drugName": "Metoclopramide",
+        "company": "Cardinal Health",
+        "userId": 24
+    },
+    {
+        "id": 478,
+        "drugName": "BELSOMRA",
+        "company": "Merck Sharp & Dohme Corp.",
+        "userId": 32
+    },
+    {
+        "id": 479,
+        "drugName": "Acetaminophen",
+        "company": "Walgreen Company",
+        "userId": 80
+    },
+    {
+        "id": 480,
+        "drugName": "OraLabs ChapIce Cherry SPF 4 Lip Balm",
+        "company": "OraLabs",
+        "userId": 68
+    },
+    {
+        "id": 481,
+        "drugName": "Metoprolol Tartrate and Hydrochlorothiazide",
+        "company": "Sun Pharmaceutical Industries Limited",
+        "userId": 100
+    },
+    {
+        "id": 482,
+        "drugName": "Mirtazapine",
+        "company": "State of Florida DOH Central Pharmacy",
+        "userId": 25
+    },
+    {
+        "id": 483,
+        "drugName": "Oxygen",
+        "company": "J & A Medical Home Care Inc.",
+        "userId": 28
+    },
+    {
+        "id": 484,
+        "drugName": "Fluvoxamine Maleate",
+        "company": "NCS HealthCare of KY, Inc dba Vangard Labs",
+        "userId": 36
+    },
+    {
+        "id": 485,
+        "drugName": "Griseofulvin",
+        "company": "Rising Pharmaceuticals, Inc",
+        "userId": 51
+    },
+    {
+        "id": 486,
+        "drugName": "Rizatriptan Benzoate",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 97
+    },
+    {
+        "id": 487,
+        "drugName": "ATORVASTATIN CALCIUM",
+        "company": "Bryant Ranch Prepack",
+        "userId": 97
+    },
+    {
+        "id": 488,
+        "drugName": "Gentle Rain Antibacterial",
+        "company": "Coloplast Manufacturing US, LLC",
+        "userId": 53
+    },
+    {
+        "id": 489,
+        "drugName": "Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate and amphetamine sulfate",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 100
+    },
+    {
+        "id": 490,
+        "drugName": "Menopause Complex",
+        "company": "Nova Homeopathic Therapeutics, Inc.",
+        "userId": 85
+    },
+    {
+        "id": 491,
+        "drugName": "L-Dopa",
+        "company": "Apotheca Company",
+        "userId": 7
+    },
+    {
+        "id": 492,
+        "drugName": "ATOMY BB",
+        "company": "ATOMY CO., LTD.",
+        "userId": 17
+    },
+    {
+        "id": 493,
+        "drugName": "Naturasil",
+        "company": "Nature's Innovation, Inc.",
+        "userId": 95
+    },
+    {
+        "id": 494,
+        "drugName": "Axe Crew Cut",
+        "company": "CONOPCO Inc. d/b/a Unilever",
+        "userId": 68
+    },
+    {
+        "id": 495,
+        "drugName": "SPF-60",
+        "company": "Neutraderm, Inc.",
+        "userId": 22
+    },
+    {
+        "id": 496,
+        "drugName": "Naropin",
+        "company": "Fresenius Kabi USA, LLC",
+        "userId": 31
+    },
+    {
+        "id": 497,
+        "drugName": "puristics baby zinc oxide diaper rash",
+        "company": "Scerene Healthcare, Inc.",
+        "userId": 15
+    },
+    {
+        "id": 498,
+        "drugName": "Wormwood",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 76
+    },
+    {
+        "id": 499,
+        "drugName": "Spironolactone",
+        "company": "UDL Laboratories, Inc.",
+        "userId": 95
+    },
+    {
+        "id": 500,
+        "drugName": "Ringers",
+        "company": "Hospira, Inc.",
+        "userId": 53
+    },
+    {
+        "id": 501,
+        "drugName": "Smart Sense Pump Mist",
+        "company": "Kmart Corporation",
+        "userId": 86
+    },
+    {
+        "id": 502,
+        "drugName": "East Sycamore",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 24
+    },
+    {
+        "id": 503,
+        "drugName": "SOMAVERT",
+        "company": "Pharmacia and Upjohn Company",
+        "userId": 67
+    },
+    {
+        "id": 504,
+        "drugName": "METHOCARBAMOL",
+        "company": "REMEDYREPACK INC.",
+        "userId": 28
+    },
+    {
+        "id": 505,
+        "drugName": "Flounder Sun Smacker SPF 24 Watermelon Wave",
+        "company": "Bonne Bell LLC",
+        "userId": 34
+    },
+    {
+        "id": 506,
+        "drugName": "Day Time with PE",
+        "company": "Aaron Industries, Inc.",
+        "userId": 74
+    },
+    {
+        "id": 507,
+        "drugName": "Losartan Potassium",
+        "company": "Unit Dose Services",
+        "userId": 34
+    },
+    {
+        "id": 508,
+        "drugName": "pravastatin sodium",
+        "company": "PD-Rx Pharmaceuticals, Inc.",
+        "userId": 9
+    },
+    {
+        "id": 509,
+        "drugName": "Neosporin Plus Pain Relief Neo To Go First Aid Antiseptic Pain Relieving",
+        "company": "Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",
+        "userId": 90
+    },
+    {
+        "id": 510,
+        "drugName": "CHENOPODIUM ALBUM POLLEN",
+        "company": "ALK-Abello, Inc.",
+        "userId": 66
+    },
+    {
+        "id": 511,
+        "drugName": "Celexa",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 31
+    },
+    {
+        "id": 512,
+        "drugName": "XtraCare Foam Antibacterial Hand Wash",
+        "company": "Rejoice International",
+        "userId": 95
+    },
+    {
+        "id": 513,
+        "drugName": "Joint Rescue",
+        "company": "Peaceful Mountain, Inc.",
+        "userId": 86
+    },
+    {
+        "id": 514,
+        "drugName": "Whitening Repairing Cover Cushion",
+        "company": "AMI Cosmetic Co.,Ltd.",
+        "userId": 78
+    },
+    {
+        "id": 515,
+        "drugName": "Cetirizine Hydrochloride",
+        "company": "Unique Pharmaceutical Laboratories",
+        "userId": 85
+    },
+    {
+        "id": 516,
+        "drugName": "Gabapentin",
+        "company": "Cardinal Health",
+        "userId": 97
+    },
+    {
+        "id": 517,
+        "drugName": "Atenolol",
+        "company": "Clinical Solutions Wholesale",
+        "userId": 62
+    },
+    {
+        "id": 518,
+        "drugName": "Neutrogena Complete Acne Therapy Solution",
+        "company": "Neutrogena Corporation",
+        "userId": 31
+    },
+    {
+        "id": 519,
+        "drugName": "LUMIGAN",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 69
+    },
+    {
+        "id": 520,
+        "drugName": "Brompheniramine Phenylephrine DM",
+        "company": "Macoven Pharmaceuticals",
+        "userId": 53
+    },
+    {
+        "id": 521,
+        "drugName": "Giant Wild Rye",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 48
+    },
+    {
+        "id": 522,
+        "drugName": "Ramipril",
+        "company": "Roxane Laboratories, Inc",
+        "userId": 48
+    },
+    {
+        "id": 523,
+        "drugName": "Female Energy",
+        "company": "Sunway Biotech LLC",
+        "userId": 45
+    },
+    {
+        "id": 524,
+        "drugName": "Protonix",
+        "company": "Cardinal Health",
+        "userId": 38
+    },
+    {
+        "id": 525,
+        "drugName": "Sinus",
+        "company": "Hyland's",
+        "userId": 9
+    },
+    {
+        "id": 526,
+        "drugName": "Good Sense all day allergy",
+        "company": "L Perrigo Company",
+        "userId": 77
+    },
+    {
+        "id": 527,
+        "drugName": "Amitiza",
+        "company": "Takeda Pharmaceuticals America, Inc.",
+        "userId": 48
+    },
+    {
+        "id": 528,
+        "drugName": "ABILIFY",
+        "company": "H.J. Harkins Company, Inc.",
+        "userId": 21
+    },
+    {
+        "id": 529,
+        "drugName": "Gas Relief",
+        "company": "EQUATE (Walmart Stores, Inc.)",
+        "userId": 98
+    },
+    {
+        "id": 530,
+        "drugName": "Acyclovir",
+        "company": "Renaissance Pharma, Inc.",
+        "userId": 78
+    },
+    {
+        "id": 531,
+        "drugName": "Daily Facial Moisturizer Broad Spectrum SPF15 Sunscreen",
+        "company": "Dolgencorp Inc.",
+        "userId": 67
+    },
+    {
+        "id": 532,
+        "drugName": "Candidiasis Yeast",
+        "company": "Newton Laboratories, Inc.",
+        "userId": 54
+    },
+    {
+        "id": 533,
+        "drugName": "acid controller complete",
+        "company": "Safeway",
+        "userId": 38
+    },
+    {
+        "id": 534,
+        "drugName": "Felbatol",
+        "company": "Meda Pharmaceuticals Inc.",
+        "userId": 89
+    },
+    {
+        "id": 535,
+        "drugName": "LIDODERM",
+        "company": "H.J. Harkins Company, Inc.",
+        "userId": 12
+    },
+    {
+        "id": 536,
+        "drugName": "up and up",
+        "company": "Target Corporation",
+        "userId": 14
+    },
+    {
+        "id": 537,
+        "drugName": "Valacyclovir hydrochloride",
+        "company": "Actavis Pharma, Inc.",
+        "userId": 52
+    },
+    {
+        "id": 538,
+        "drugName": "Softlips Pure Tint",
+        "company": "The Mentholatum Company",
+        "userId": 22
+    },
+    {
+        "id": 539,
+        "drugName": "Pollens - Weeds and Garden Plants, Goldenrod Solidago canadensis",
+        "company": "Jubilant HollisterStier LLC",
+        "userId": 53
+    },
+    {
+        "id": 540,
+        "drugName": "Oxycodone and Acetaminophen",
+        "company": "PD-Rx Pharmaceuticals, Inc.",
+        "userId": 67
+    },
+    {
+        "id": 541,
+        "drugName": "Dicyclomine Hydrochloride",
+        "company": "Dispensing Solutions, Inc.",
+        "userId": 67
+    },
+    {
+        "id": 542,
+        "drugName": "ESTRACE",
+        "company": "Warner Chilcott (US), LLC",
+        "userId": 53
+    },
+    {
+        "id": 543,
+        "drugName": "Lymphoplex",
+        "company": "BioActive Nutritional, Inc.",
+        "userId": 79
+    },
+    {
+        "id": 544,
+        "drugName": "Primidone",
+        "company": "Major Pharmaceuticals",
+        "userId": 94
+    },
+    {
+        "id": 545,
+        "drugName": "Health Mart pain relief",
+        "company": "Mckesson",
+        "userId": 41
+    },
+    {
+        "id": 546,
+        "drugName": "Homeopathic Skin Solutions Formula",
+        "company": "Indiana Botanic Gardens",
+        "userId": 27
+    },
+    {
+        "id": 547,
+        "drugName": "Bupropion Hydrochloride",
+        "company": "Bryant Ranch Prepack",
+        "userId": 77
+    },
+    {
+        "id": 548,
+        "drugName": "Wal Zyr",
+        "company": "Walgreen Company",
+        "userId": 11
+    },
+    {
+        "id": 549,
+        "drugName": "ZEA MAYS POLLEN",
+        "company": "ALK-Abello, Inc.",
+        "userId": 46
+    },
+    {
+        "id": 550,
+        "drugName": "Fetzima",
+        "company": "Forest Laboratories, Inc.",
+        "userId": 71
+    },
+    {
+        "id": 551,
+        "drugName": "Treatment Set TS347536",
+        "company": "Antigen Laboratories, Inc.",
+        "userId": 16
+    },
+    {
+        "id": 552,
+        "drugName": "Alcohol",
+        "company": "The Kroger Company",
+        "userId": 27
+    },
+    {
+        "id": 553,
+        "drugName": "Mesna",
+        "company": "APP Pharmaceuticals, LLC",
+        "userId": 23
+    },
+    {
+        "id": 554,
+        "drugName": "PREZISTA",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 27
+    },
+    {
+        "id": 555,
+        "drugName": "Levothyroxine Sodium",
+        "company": "Mylan Institutional Inc.",
+        "userId": 88
+    },
+    {
+        "id": 556,
+        "drugName": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 27
+    },
+    {
+        "id": 557,
+        "drugName": "SUPER ORIGIN CERAMIDE BB",
+        "company": "NATURE REPUBLIC CO., LTD.",
+        "userId": 67
+    },
+    {
+        "id": 558,
+        "drugName": "good neighbor pharmacy pain relief",
+        "company": "Bryant Ranch Prepack",
+        "userId": 54
+    },
+    {
+        "id": 559,
+        "drugName": "Forma-Ray",
+        "company": "Gordon Laboratories",
+        "userId": 9
+    },
+    {
+        "id": 560,
+        "drugName": "Atenolol",
+        "company": "Ranbaxy Pharmaceuticals Inc.",
+        "userId": 26
+    },
+    {
+        "id": 561,
+        "drugName": "RiaSTAP",
+        "company": "CSL Behring GmbH",
+        "userId": 37
+    },
+    {
+        "id": 562,
+        "drugName": "Clearasil Daily Clear",
+        "company": "Reckitt Benckiser LLC",
+        "userId": 99
+    },
+    {
+        "id": 563,
+        "drugName": "Metronidazole",
+        "company": "UDL Laboratories, Inc.",
+        "userId": 98
+    },
+    {
+        "id": 564,
+        "drugName": "Gentamicin Sulfate",
+        "company": "Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC",
+        "userId": 58
+    },
+    {
+        "id": 565,
+        "drugName": "GODDESS GARDEN ORGANICS Sunny Body NATURAL SUNSCREEN BROAD SPECTRUM SPF 30 WATER RESISTANT",
+        "company": "Crossing Cultures, LLC dba Goddess Garden",
+        "userId": 84
+    },
+    {
+        "id": 566,
+        "drugName": "Metronidazole",
+        "company": "Preferred Pharmaceuticals, Inc.",
+        "userId": 62
+    },
+    {
+        "id": 567,
+        "drugName": "Nadolol and Bendroflumethiazide",
+        "company": "Global Pharmaceuticals, Division of Impax Laboratories, Inc.",
+        "userId": 19
+    },
+    {
+        "id": 568,
+        "drugName": "Naropin",
+        "company": "Fresenius Kabi USA, LLC",
+        "userId": 95
+    },
+    {
+        "id": 569,
+        "drugName": "LAB SERIES SKINCARE FOR MEN",
+        "company": "Aramis Inc.",
+        "userId": 4
+    },
+    {
+        "id": 570,
+        "drugName": "SUPRAX",
+        "company": "Lupin Pharmaceuticals, Inc.",
+        "userId": 85
+    },
+    {
+        "id": 571,
+        "drugName": "Lansoprazole",
+        "company": "Teva Pharmaceuticals USA Inc",
+        "userId": 61
+    },
+    {
+        "id": 572,
+        "drugName": "LBEL REGRESSION JOUR Protective Complex With SPF 15 Facial Day Normal to Combination Skin",
+        "company": "Ventura Corporation, LTD",
+        "userId": 30
+    },
+    {
+        "id": 573,
+        "drugName": "Covergirl Queen Collection All Day Flawless 3in1 Foundation",
+        "company": "Noxell",
+        "userId": 45
+    },
+    {
+        "id": 574,
+        "drugName": "Furosemide",
+        "company": "REMEDYREPACK INC.",
+        "userId": 12
+    },
+    {
+        "id": 575,
+        "drugName": "Lovenox",
+        "company": "sanofi-aventis U.S. LLC",
+        "userId": 50
+    },
+    {
+        "id": 576,
+        "drugName": "Real Deal Foundation",
+        "company": "LAURA GELLER MAKE UP INC.",
+        "userId": 95
+    },
+    {
+        "id": 577,
+        "drugName": "CVS Triple-Thick Antibacterial",
+        "company": "CVS Pharmacy",
+        "userId": 79
+    },
+    {
+        "id": 578,
+        "drugName": "Anticavity",
+        "company": "Rite Aid",
+        "userId": 8
+    },
+    {
+        "id": 579,
+        "drugName": "Antiseptic",
+        "company": "CVS Pharmacy, Inc",
+        "userId": 33
+    },
+    {
+        "id": 580,
+        "drugName": "PROMETHAZINE HYDROCHLORIDE",
+        "company": "Cardinal Health",
+        "userId": 30
+    },
+    {
+        "id": 581,
+        "drugName": "Avon Elements",
+        "company": "Avon Products, Inc",
+        "userId": 2
+    },
+    {
+        "id": 582,
+        "drugName": "Chem Clean Antibacterial Hand",
+        "company": "Whisk Products, Inc.",
+        "userId": 76
+    },
+    {
+        "id": 583,
+        "drugName": "Ciprofloxacin",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 78
+    },
+    {
+        "id": 584,
+        "drugName": "LAMICTAL",
+        "company": "GlaxoSmithKline LLC",
+        "userId": 13
+    },
+    {
+        "id": 585,
+        "drugName": "TENDERWRAP",
+        "company": "Tyco Healthcare Group LP",
+        "userId": 1
+    },
+    {
+        "id": 586,
+        "drugName": "DiorSkin Nude 012 Porcelain",
+        "company": "Parfums Christian Dior",
+        "userId": 85
+    },
+    {
+        "id": 587,
+        "drugName": "Proctocort",
+        "company": "Salix Pharmaceuticals, Inc",
+        "userId": 55
+    },
+    {
+        "id": 588,
+        "drugName": "OXYGEN",
+        "company": "Capitol Welders Supply Co., Inc.",
+        "userId": 19
+    },
+    {
+        "id": 589,
+        "drugName": "Morphine Sulfate",
+        "company": "Cantrell Drug Company",
+        "userId": 25
+    },
+    {
+        "id": 590,
+        "drugName": "Lander",
+        "company": "Abaco Partners LLC DBA Surefil",
+        "userId": 26
+    },
+    {
+        "id": 591,
+        "drugName": "Levetiracetam",
+        "company": "Unit Dose Services",
+        "userId": 78
+    },
+    {
+        "id": 592,
+        "drugName": "Valsartan and hydrochlorothiazide",
+        "company": "AvKARE, Inc.",
+        "userId": 61
+    },
+    {
+        "id": 593,
+        "drugName": "cold head congestion",
+        "company": "Hannaford Brothers Company",
+        "userId": 24
+    },
+    {
+        "id": 594,
+        "drugName": "Aspergillus flavus",
+        "company": "Antigen Laboratories, Inc.",
+        "userId": 26
+    },
+    {
+        "id": 595,
+        "drugName": "Leuprolide Acetate",
+        "company": "Sandoz Inc",
+        "userId": 10
+    },
+    {
+        "id": 596,
+        "drugName": "Cycloserine",
+        "company": "Purdue GMP Center LLC",
+        "userId": 24
+    },
+    {
+        "id": 597,
+        "drugName": "Viscum Echinacea",
+        "company": "Uriel Pharmacy Inc.",
+        "userId": 38
+    },
+    {
+        "id": 598,
+        "drugName": "Assured Instant Hand Sanitizer",
+        "company": "Greenbrier International, Inc.",
+        "userId": 73
+    },
+    {
+        "id": 599,
+        "drugName": "WhiskCare 375",
+        "company": "Whisk Products, Inc.",
+        "userId": 62
+    },
+    {
+        "id": 600,
+        "drugName": "Azithromycin",
+        "company": "Sandoz Inc",
+        "userId": 19
+    },
+    {
+        "id": 601,
+        "drugName": "Riluzole",
+        "company": "Sun Pharmaceutical Industries Limited",
+        "userId": 8
+    },
+    {
+        "id": 602,
+        "drugName": "Sunmark Antacid",
+        "company": "McKesson",
+        "userId": 7
+    },
+    {
+        "id": 603,
+        "drugName": "RELENZA",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 44
+    },
+    {
+        "id": 604,
+        "drugName": "Bauri 40 (Number 22)",
+        "company": "Paramesh Banerji Life Sciences LLC",
+        "userId": 16
+    },
+    {
+        "id": 605,
+        "drugName": "Dextrose and Sodium Chloride",
+        "company": "Hospira, Inc.",
+        "userId": 32
+    },
+    {
+        "id": 606,
+        "drugName": "First Aid",
+        "company": "HART Health",
+        "userId": 45
+    },
+    {
+        "id": 607,
+        "drugName": "ESIKA",
+        "company": "Ventura Corporation (San Juan, P.R)",
+        "userId": 7
+    },
+    {
+        "id": 608,
+        "drugName": "Eastern Cottonwood",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 61
+    },
+    {
+        "id": 609,
+        "drugName": "Sore Throat",
+        "company": "Apotheca Company",
+        "userId": 44
+    },
+    {
+        "id": 610,
+        "drugName": "SACCHAROMYCES CEREVISIAE",
+        "company": "ALK-Abello, Inc.",
+        "userId": 26
+    },
+    {
+        "id": 611,
+        "drugName": "Desonide",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 86
+    },
+    {
+        "id": 612,
+        "drugName": "Antiseptic Mouth Rinse",
+        "company": "Geiss, Destin + Dunn",
+        "userId": 77
+    },
+    {
+        "id": 613,
+        "drugName": "LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15",
+        "company": "Ventura Corporation LTD",
+        "userId": 18
+    },
+    {
+        "id": 614,
+        "drugName": "Standardized Redtop Grass",
+        "company": "Allermed Laboratories, Inc.",
+        "userId": 69
+    },
+    {
+        "id": 615,
+        "drugName": "Benztropine Mesylate",
+        "company": "Dispensing Solutions, Inc.",
+        "userId": 76
+    },
+    {
+        "id": 616,
+        "drugName": "nicorelief",
+        "company": "Major Pharmaceuticals",
+        "userId": 83
+    },
+    {
+        "id": 617,
+        "drugName": "ArthriPain Relief",
+        "company": "NDI Solutions LLC",
+        "userId": 90
+    },
+    {
+        "id": 618,
+        "drugName": "Topcare Sore Throat",
+        "company": "Topco Associates LLC",
+        "userId": 30
+    },
+    {
+        "id": 619,
+        "drugName": "Gumsol",
+        "company": "Kramer Novis",
+        "userId": 31
+    },
+    {
+        "id": 620,
+        "drugName": "Metoprolol Tartrate",
+        "company": "Cronus Pharma LLC",
+        "userId": 19
+    },
+    {
+        "id": 621,
+        "drugName": "Triamcinolone Acetonide",
+        "company": "Perrigo New York Inc",
+        "userId": 28
+    },
+    {
+        "id": 622,
+        "drugName": "Heparin Lock Flush",
+        "company": "APP Pharmaceuticals, LLC",
+        "userId": 4
+    },
+    {
+        "id": 623,
+        "drugName": "Omeprazole",
+        "company": "ReadyMeds",
+        "userId": 86
+    },
+    {
+        "id": 624,
+        "drugName": "Pantoprazole Sodium",
+        "company": "Jubilant Cadista Pharmaceuticals Inc.",
+        "userId": 88
+    },
+    {
+        "id": 625,
+        "drugName": "rexall all day pain relief",
+        "company": "Dolgencorp Inc",
+        "userId": 41
+    },
+    {
+        "id": 626,
+        "drugName": "DHS TAR",
+        "company": "Person and Covey",
+        "userId": 38
+    },
+    {
+        "id": 627,
+        "drugName": "Quetiapine fumarate",
+        "company": "Sun Pharma Global FZE",
+        "userId": 71
+    },
+    {
+        "id": 628,
+        "drugName": "Armour Thyroid",
+        "company": "Forest Laboratories, Inc",
+        "userId": 8
+    },
+    {
+        "id": 629,
+        "drugName": "Day Time Night Time Cold and Flu",
+        "company": "HyVee Inc",
+        "userId": 2
+    },
+    {
+        "id": 630,
+        "drugName": "Day Time",
+        "company": "Premier Value",
+        "userId": 92
+    },
+    {
+        "id": 631,
+        "drugName": "Sterillium Rub Fragrance Free",
+        "company": "Bode Chemie Hamburg",
+        "userId": 18
+    },
+    {
+        "id": 632,
+        "drugName": "Liver comp.",
+        "company": "Uriel Pharmacy Inc.",
+        "userId": 4
+    },
+    {
+        "id": 633,
+        "drugName": "allergy relief",
+        "company": "HyVee Inc",
+        "userId": 70
+    },
+    {
+        "id": 634,
+        "drugName": "PIRMELLA 7/7/7",
+        "company": "Lupin Pharmaceuticals, Inc.",
+        "userId": 3
+    },
+    {
+        "id": 635,
+        "drugName": "Oxybutynin Chloride",
+        "company": "Lake Erie Medical DBA Quality Care Products LLC",
+        "userId": 2
+    },
+    {
+        "id": 636,
+        "drugName": "Olanzapine",
+        "company": "Sandoz Inc",
+        "userId": 20
+    },
+    {
+        "id": 637,
+        "drugName": "Furosemide",
+        "company": "A-S Medication Solutions LLC",
+        "userId": 22
+    },
+    {
+        "id": 638,
+        "drugName": "TOPROLXL",
+        "company": "REMEDYREPACK INC.",
+        "userId": 63
+    },
+    {
+        "id": 639,
+        "drugName": "Sertraline Hydrochloride",
+        "company": "Preferred Pharmaceuticals, Inc",
+        "userId": 30
+    },
+    {
+        "id": 640,
+        "drugName": "Crest Sensi-Namel",
+        "company": "The Procter & Gamble Manufacturing Company",
+        "userId": 83
+    },
+    {
+        "id": 641,
+        "drugName": "Laneige Skin Veil",
+        "company": "AMOREPACIFIC",
+        "userId": 48
+    },
+    {
+        "id": 642,
+        "drugName": "Amoxicillin and Clavulanate Potassium",
+        "company": "Rebel Distributors Corp",
+        "userId": 100
+    },
+    {
+        "id": 643,
+        "drugName": "Regular Strength Pain Relief",
+        "company": "Geri-Care Pharmaceutical Corp",
+        "userId": 74
+    },
+    {
+        "id": 644,
+        "drugName": "Bepreve",
+        "company": "Bausch & Lomb Incorporated",
+        "userId": 29
+    },
+    {
+        "id": 645,
+        "drugName": "Glyburide",
+        "company": "Aidarex Pharmaceuticals LLC",
+        "userId": 16
+    },
+    {
+        "id": 646,
+        "drugName": "UltrasolSunscreen",
+        "company": "Fischer Pharmaceuticals Ltd",
+        "userId": 81
+    },
+    {
+        "id": 647,
+        "drugName": "Gabapentin",
+        "company": "Amneal Pharmaceuticals of New York, LLC",
+        "userId": 95
+    },
+    {
+        "id": 648,
+        "drugName": "Savella",
+        "company": "Rebel Distributors Corp",
+        "userId": 93
+    },
+    {
+        "id": 649,
+        "drugName": "Own",
+        "company": "Own Products Inc.",
+        "userId": 44
+    },
+    {
+        "id": 650,
+        "drugName": "Almond",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 29
+    },
+    {
+        "id": 651,
+        "drugName": "Zapotol Bacitracin",
+        "company": "Zapatol Corp.",
+        "userId": 25
+    },
+    {
+        "id": 652,
+        "drugName": "Famotidine",
+        "company": "Aidarex Pharmaceuticals LLC",
+        "userId": 28
+    },
+    {
+        "id": 653,
+        "drugName": "ULTRA CONTROL",
+        "company": "WATER PIK, INC.",
+        "userId": 23
+    },
+    {
+        "id": 654,
+        "drugName": "Citalopram Hydrobromide",
+        "company": "MedVantx, Inc.",
+        "userId": 25
+    },
+    {
+        "id": 655,
+        "drugName": "UREA HYDRATING TOPICAL",
+        "company": "Acella Pharmaceuticals",
+        "userId": 96
+    },
+    {
+        "id": 656,
+        "drugName": "Anti E-Sirin",
+        "company": "Sungwon Pharmaceutical Co., Ltd.",
+        "userId": 24
+    },
+    {
+        "id": 657,
+        "drugName": "Rejuvesol",
+        "company": "Citra Labs LLC",
+        "userId": 41
+    },
+    {
+        "id": 658,
+        "drugName": "Diclofenac Sodium Delayed Release",
+        "company": "REMEDYREPACK INC.",
+        "userId": 85
+    },
+    {
+        "id": 659,
+        "drugName": "CC Cream Broad Spectrum SPF 30",
+        "company": "Merle Norman Cosmetics",
+        "userId": 67
+    },
+    {
+        "id": 660,
+        "drugName": "INFUMORPH 500",
+        "company": "West-ward Pharmaceutical Corp.",
+        "userId": 57
+    },
+    {
+        "id": 661,
+        "drugName": "GNP Lubricant Eye",
+        "company": "Amerisource Bergen",
+        "userId": 84
+    },
+    {
+        "id": 662,
+        "drugName": "good neighbor pharmacy cold and allergy",
+        "company": "Amerisource Bergen",
+        "userId": 98
+    },
+    {
+        "id": 663,
+        "drugName": "FUSARIUM SOLANI",
+        "company": "Allergy Laboratories, Inc.",
+        "userId": 3
+    },
+    {
+        "id": 664,
+        "drugName": "CELLBOOSTING HOMME WHITENING FLUID",
+        "company": "NATURE REPUBLIC CO., LTD.",
+        "userId": 27
+    },
+    {
+        "id": 665,
+        "drugName": "Divalproex Sodium",
+        "company": "Dr. Reddy's Laboratories Ltd",
+        "userId": 66
+    },
+    {
+        "id": 666,
+        "drugName": "Ear Wax Build-Up",
+        "company": "Newton Laboratories, Inc.",
+        "userId": 24
+    },
+    {
+        "id": 667,
+        "drugName": "Dicel",
+        "company": "Centrix Pharmaceutical",
+        "userId": 58
+    },
+    {
+        "id": 668,
+        "drugName": "Bisoprolol Fumarate",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 75
+    },
+    {
+        "id": 669,
+        "drugName": "Ziprasidone",
+        "company": "Greenstone LLC",
+        "userId": 99
+    },
+    {
+        "id": 670,
+        "drugName": "Duraflu",
+        "company": "Poly Pharmaceuticals, Inc.",
+        "userId": 84
+    },
+    {
+        "id": 671,
+        "drugName": "Lipitor",
+        "company": "Bryant Ranch Prepack",
+        "userId": 60
+    },
+    {
+        "id": 672,
+        "drugName": "Clozapine",
+        "company": "Teva Pharmaceuticals USA Inc",
+        "userId": 25
+    },
+    {
+        "id": 673,
+        "drugName": "Guinea Pig Epithelia",
+        "company": "Allermed Laboratories, Inc.",
+        "userId": 16
+    },
+    {
+        "id": 674,
+        "drugName": "Olanzapine",
+        "company": "Rebel Distributors Corp",
+        "userId": 60
+    },
+    {
+        "id": 675,
+        "drugName": "Hydrocortisone Maximum Strength",
+        "company": "Premier Value",
+        "userId": 63
+    },
+    {
+        "id": 676,
+        "drugName": "Next Choice",
+        "company": "Dispensing Solutions, Inc.",
+        "userId": 49
+    },
+    {
+        "id": 677,
+        "drugName": "Lamotrigine",
+        "company": "Cadila Healthcare Limited",
+        "userId": 35
+    },
+    {
+        "id": 678,
+        "drugName": "Venlafaxine Hydrochloride",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 2
+    },
+    {
+        "id": 679,
+        "drugName": "Rescue 5",
+        "company": "Energique, Inc.",
+        "userId": 91
+    },
+    {
+        "id": 680,
+        "drugName": "Chlor-Trimeton 4Hour",
+        "company": "MSD Consumer Care, Inc.",
+        "userId": 90
+    },
+    {
+        "id": 681,
+        "drugName": "healthy accents day time night time",
+        "company": "DZA Brands LLC",
+        "userId": 62
+    },
+    {
+        "id": 682,
+        "drugName": "Levetiracetam",
+        "company": "Qualitest Pharmaceuticals",
+        "userId": 58
+    },
+    {
+        "id": 683,
+        "drugName": "Gabapentin",
+        "company": "American Health Packaging",
+        "userId": 47
+    },
+    {
+        "id": 684,
+        "drugName": "Olanzapine",
+        "company": "Macleods Pharmaceuticals Limited",
+        "userId": 63
+    },
+    {
+        "id": 685,
+        "drugName": "Witch Hazel",
+        "company": "Best Choice",
+        "userId": 14
+    },
+    {
+        "id": 686,
+        "drugName": "equate suphedrine",
+        "company": "Wal-Mart Stores Inc",
+        "userId": 73
+    },
+    {
+        "id": 687,
+        "drugName": "Hydrocortisone Maximum Strength",
+        "company": "Walgreen Company",
+        "userId": 61
+    },
+    {
+        "id": 688,
+        "drugName": "Azithromycin Dihydrate",
+        "company": "American Health Packaging",
+        "userId": 28
+    },
+    {
+        "id": 689,
+        "drugName": "health mart adult tussin",
+        "company": "McKesson",
+        "userId": 14
+    },
+    {
+        "id": 690,
+        "drugName": "Losartan Potassium",
+        "company": "Endo Pharmaceuticals Inc. DBA Endo Generic Products",
+        "userId": 23
+    },
+    {
+        "id": 691,
+        "drugName": "TRICLOSAN",
+        "company": "CVS Pharmacy",
+        "userId": 30
+    },
+    {
+        "id": 692,
+        "drugName": "Ropivacaine Hydrochloride",
+        "company": "Hospira, Inc.",
+        "userId": 68
+    },
+    {
+        "id": 693,
+        "drugName": "Mitomycin",
+        "company": "Accord Healthcare Inc",
+        "userId": 76
+    },
+    {
+        "id": 694,
+        "drugName": "Mandarin Orange Antibacterial Hand",
+        "company": "Zhejiang Blue Dream Cosmetics Co., Ltd.",
+        "userId": 24
+    },
+    {
+        "id": 695,
+        "drugName": "Iodine Bush",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 31
+    },
+    {
+        "id": 696,
+        "drugName": "Ceramide Lift And Firm Makeup Broad Spectrum Sunscreen SPF 15 Warm Honey",
+        "company": "Elizabeth Arden, Inc",
+        "userId": 27
+    },
+    {
+        "id": 697,
+        "drugName": "Sinuchron",
+        "company": "Energique, Inc.",
+        "userId": 28
+    },
+    {
+        "id": 698,
+        "drugName": "Kadian",
+        "company": "Actavis Kadian LLC",
+        "userId": 25
+    },
+    {
+        "id": 699,
+        "drugName": "Theophylline",
+        "company": "Alembic Pharmaceuticals Limited",
+        "userId": 60
+    },
+    {
+        "id": 700,
+        "drugName": "First Aid Antibiotic Pain Relief",
+        "company": "Rite Aid",
+        "userId": 78
+    },
+    {
+        "id": 701,
+        "drugName": "Theophylline",
+        "company": "Lake Erie Medical DBA Quality Care Products LLC",
+        "userId": 43
+    },
+    {
+        "id": 702,
+        "drugName": "Attends Advanced Barrier",
+        "company": "Purna Pharmaceuticals NV",
+        "userId": 88
+    },
+    {
+        "id": 703,
+        "drugName": "Lamotrigine Extended Release",
+        "company": "Par Pharmaceutical Inc.",
+        "userId": 10
+    },
+    {
+        "id": 704,
+        "drugName": "Quinapril Hydrochloride and Hydrochlorothiazide",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 17
+    },
+    {
+        "id": 705,
+        "drugName": "Giorgio Armani Maestro Fusion Makeup Compact Broad Spectrum SPF 29 Sunscreen",
+        "company": "L'Oreal USA Products Inc",
+        "userId": 22
+    },
+    {
+        "id": 706,
+        "drugName": "Eucerin Redness Relief Daily Perfecting",
+        "company": "Beiersdorf Inc",
+        "userId": 49
+    },
+    {
+        "id": 707,
+        "drugName": "Digoxin",
+        "company": "A-S Medication Solutions LLC",
+        "userId": 36
+    },
+    {
+        "id": 708,
+        "drugName": "DPT TOX",
+        "company": "WHITE MANUFACTURING INC. DBA MICRO WEST",
+        "userId": 26
+    },
+    {
+        "id": 709,
+        "drugName": "Climate Adaptation Hot and Humid",
+        "company": "King Bio Inc.",
+        "userId": 58
+    },
+    {
+        "id": 710,
+        "drugName": "Bactoshield CHG",
+        "company": "STERIS Corporation",
+        "userId": 44
+    },
+    {
+        "id": 711,
+        "drugName": "DIGISAN Healthcare Hand Sanitizer",
+        "company": "Ecolab Inc.",
+        "userId": 48
+    },
+    {
+        "id": 712,
+        "drugName": "FANAPT",
+        "company": "Novartis Pharmaceuticals Corporation",
+        "userId": 21
+    },
+    {
+        "id": 713,
+        "drugName": "KLEENEX Antimicrobial Foam Skin Cleanser",
+        "company": "Kimberly-Clark Corporation",
+        "userId": 9
+    },
+    {
+        "id": 714,
+        "drugName": "Match Perfection SPF 18",
+        "company": "Rimmel Inc.",
+        "userId": 7
+    },
+    {
+        "id": 715,
+        "drugName": "Gerlasan Hand",
+        "company": "Eduard Gerlach GmbH",
+        "userId": 56
+    },
+    {
+        "id": 716,
+        "drugName": "PHOSPHORUS",
+        "company": "HOMEOLAB USA INC",
+        "userId": 57
+    },
+    {
+        "id": 717,
+        "drugName": "Naproxen",
+        "company": "REMEDYREPACK INC.",
+        "userId": 47
+    },
+    {
+        "id": 718,
+        "drugName": "Olanzapine",
+        "company": "AvPAK",
+        "userId": 34
+    },
+    {
+        "id": 719,
+        "drugName": "Losartan Potassium and Hydrochlorothiazide",
+        "company": "REMEDYREPACK INC.",
+        "userId": 78
+    },
+    {
+        "id": 720,
+        "drugName": "Albuterol Sulfate",
+        "company": "Cardinal Health",
+        "userId": 82
+    },
+    {
+        "id": 721,
+        "drugName": "Black Cottonwood Pollen",
+        "company": "Allermed Laboratories, Inc.",
+        "userId": 13
+    },
+    {
+        "id": 722,
+        "drugName": "METHADOSE",
+        "company": "Mallinckrodt, Inc.",
+        "userId": 55
+    },
+    {
+        "id": 723,
+        "drugName": "zoledronic acid",
+        "company": "Sagent Pharmaceuticals",
+        "userId": 46
+    },
+    {
+        "id": 724,
+        "drugName": "Cerebromax",
+        "company": "Deseret Biologicals, Inc.",
+        "userId": 22
+    },
+    {
+        "id": 725,
+        "drugName": "Azathioprine",
+        "company": "Mylan Institutional Inc.",
+        "userId": 92
+    },
+    {
+        "id": 726,
+        "drugName": "Lamivudine and Zidovudine",
+        "company": "Bryant Ranch Prepack",
+        "userId": 53
+    },
+    {
+        "id": 727,
+        "drugName": "Trazodone Hydrochloride",
+        "company": "Blenheim Pharmacal, Inc.",
+        "userId": 99
+    },
+    {
+        "id": 728,
+        "drugName": "AMOREPACIFIC",
+        "company": "AMOREPACIFIC",
+        "userId": 77
+    },
+    {
+        "id": 729,
+        "drugName": "Ethambutol Hydrochloride",
+        "company": "STI Pharma LLC",
+        "userId": 93
+    },
+    {
+        "id": 730,
+        "drugName": "Levofloxacin",
+        "company": "West-Ward Pharmaceutical Corp",
+        "userId": 36
+    },
+    {
+        "id": 731,
+        "drugName": "Diovan",
+        "company": "REMEDYREPACK INC.",
+        "userId": 27
+    },
+    {
+        "id": 732,
+        "drugName": "Cormax",
+        "company": "Watson Pharma, Inc.",
+        "userId": 48
+    },
+    {
+        "id": 733,
+        "drugName": "Childrens",
+        "company": "Meijer Distribution Inc",
+        "userId": 97
+    },
+    {
+        "id": 734,
+        "drugName": "Lorazepam",
+        "company": "Actavis Elizabeth LLC",
+        "userId": 99
+    },
+    {
+        "id": 735,
+        "drugName": "Pure petroleum",
+        "company": "Western Family Foods, Inc",
+        "userId": 10
+    },
+    {
+        "id": 736,
+        "drugName": "CARE ONE",
+        "company": "AMERICAN SALES COMPANY",
+        "userId": 50
+    },
+    {
+        "id": 737,
+        "drugName": "CLADOSPORIUM CLADOSPORIOIDES",
+        "company": "ALK-Abello, Inc.",
+        "userId": 63
+    },
+    {
+        "id": 738,
+        "drugName": "100% Pure Argan Oil Moisturizer",
+        "company": "Purity Cosmetics",
+        "userId": 46
+    },
+    {
+        "id": 739,
+        "drugName": "Risperidone",
+        "company": "Apotex Corp.",
+        "userId": 7
+    },
+    {
+        "id": 740,
+        "drugName": "Verelan",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 18
+    },
+    {
+        "id": 741,
+        "drugName": "donepezil hydrochloride",
+        "company": "Greenstone LLC",
+        "userId": 33
+    },
+    {
+        "id": 742,
+        "drugName": "PROCHLORPERAZINE MALEATE",
+        "company": "Rebel Distributors Corp",
+        "userId": 43
+    },
+    {
+        "id": 743,
+        "drugName": "Adderall",
+        "company": "Teva Select Brands",
+        "userId": 39
+    },
+    {
+        "id": 744,
+        "drugName": "Topcare Day time cold and flu relief",
+        "company": "Topco Associates LLC",
+        "userId": 57
+    },
+    {
+        "id": 745,
+        "drugName": "BUTALBITAL AND ACETAMINOPHEN",
+        "company": "STAT Rx USA LLC",
+        "userId": 95
+    },
+    {
+        "id": 746,
+        "drugName": "LEROSETT High-Content Organic Acne Treatment",
+        "company": "Cosmetic Specialty labs, Inc.",
+        "userId": 15
+    },
+    {
+        "id": 747,
+        "drugName": "5-OAK MIX, BLACKJACK/BUR/POST/RED/WHITE POLLEN",
+        "company": "Allergy Laboratories, Inc.",
+        "userId": 86
+    },
+    {
+        "id": 748,
+        "drugName": "Microgestin",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 1
+    },
+    {
+        "id": 749,
+        "drugName": "Piroxicam",
+        "company": "Golden State Medical Supply, Inc.",
+        "userId": 68
+    },
+    {
+        "id": 750,
+        "drugName": "Good Sense Mucus Relief",
+        "company": "L. Perrigo Company",
+        "userId": 63
+    },
+    {
+        "id": 751,
+        "drugName": "NATRUM PHOSPHORICUM",
+        "company": "HOMEOLAB USA INC",
+        "userId": 62
+    },
+    {
+        "id": 752,
+        "drugName": "Diltiazem Hydrochloride",
+        "company": "Dispensing Solutions, Inc.",
+        "userId": 28
+    },
+    {
+        "id": 753,
+        "drugName": "OXTELLAR XR",
+        "company": "Supernus",
+        "userId": 54
+    },
+    {
+        "id": 754,
+        "drugName": "Bodycology",
+        "company": "Advanced Beauty Systems, Inc.",
+        "userId": 95
+    },
+    {
+        "id": 755,
+        "drugName": "Methylene Blue",
+        "company": "American Regent, Inc.",
+        "userId": 77
+    },
+    {
+        "id": 756,
+        "drugName": "Isosorbide Dinitrate",
+        "company": "West-ward Pharmaceutical Corp",
+        "userId": 32
+    },
+    {
+        "id": 757,
+        "drugName": "AHC Collagen Serum",
+        "company": "Carver Korea Co.,Ltd",
+        "userId": 10
+    },
+    {
+        "id": 758,
+        "drugName": "Isoniazid",
+        "company": "REMEDYREPACK INC.",
+        "userId": 92
+    },
+    {
+        "id": 759,
+        "drugName": "Aricept",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 85
+    },
+    {
+        "id": 760,
+        "drugName": "loperamide hydrochloride",
+        "company": "Major Pharmaceuticals",
+        "userId": 18
+    },
+    {
+        "id": 761,
+        "drugName": "Denti-Care Denti-Freeze",
+        "company": "AR Medicom Inc",
+        "userId": 53
+    },
+    {
+        "id": 762,
+        "drugName": "Prednisolone",
+        "company": "ETHEX Corporation",
+        "userId": 33
+    },
+    {
+        "id": 763,
+        "drugName": "Pleo San Serra",
+        "company": "Sanum Kehlbeck GmbH & Co. KG",
+        "userId": 48
+    },
+    {
+        "id": 764,
+        "drugName": "Cuts and Scrapes",
+        "company": "Nelson Bach USA, Ltd.",
+        "userId": 23
+    },
+    {
+        "id": 765,
+        "drugName": "Egg Plant",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 2
+    },
+    {
+        "id": 766,
+        "drugName": "Acetaminophen",
+        "company": "Kareway Product, Inc.",
+        "userId": 30
+    },
+    {
+        "id": 767,
+        "drugName": "Head Remedy",
+        "company": "KPSS Inc.",
+        "userId": 36
+    },
+    {
+        "id": 768,
+        "drugName": "Buprenorphine Hydrochloride",
+        "company": "Hospira, Inc.",
+        "userId": 55
+    },
+    {
+        "id": 769,
+        "drugName": "Siltussin DM",
+        "company": "TYA Pharmaceuticals",
+        "userId": 98
+    },
+    {
+        "id": 770,
+        "drugName": "HYDRACLEAR HYDRATING ACNE GEL",
+        "company": "KATE SOMERVILLE SKINCARE, LLC",
+        "userId": 75
+    },
+    {
+        "id": 771,
+        "drugName": "Calcitriol",
+        "company": "Roxane Laboratories, Inc",
+        "userId": 89
+    },
+    {
+        "id": 772,
+        "drugName": "Kalium carbonicum 10",
+        "company": "Uriel Pharmacy Inc.",
+        "userId": 74
+    },
+    {
+        "id": 773,
+        "drugName": "Pleo Ut S",
+        "company": "Sanum Kehlbeck GmbH & Co. KG",
+        "userId": 88
+    },
+    {
+        "id": 774,
+        "drugName": "VITAMIN E LIP CONDITIONER",
+        "company": "JO MALONE LTD, Distr.",
+        "userId": 90
+    },
+    {
+        "id": 775,
+        "drugName": "Clarithromycin",
+        "company": "Zydus Pharmaceuticals USA Inc",
+        "userId": 24
+    },
+    {
+        "id": 776,
+        "drugName": "Mung Bean",
+        "company": "Antigen Laboratories, Inc.",
+        "userId": 89
+    },
+    {
+        "id": 777,
+        "drugName": "B Complex Mix",
+        "company": "Deseret Biologicals, Inc.",
+        "userId": 20
+    },
+    {
+        "id": 778,
+        "drugName": "Metformin Hydrochloride",
+        "company": "AvKARE, Inc.",
+        "userId": 76
+    },
+    {
+        "id": 779,
+        "drugName": "Topcare Mucus Relief",
+        "company": "Topco Associates LLC",
+        "userId": 55
+    },
+    {
+        "id": 780,
+        "drugName": "No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Deeply Honey",
+        "company": "BCM Cosmetique SAS",
+        "userId": 14
+    },
+    {
+        "id": 781,
+        "drugName": "AGELESS Total Skin Bleaching Serum",
+        "company": "Allure Labs, Inc.",
+        "userId": 7
+    },
+    {
+        "id": 782,
+        "drugName": "Levisticum e rad. 3",
+        "company": "Uriel Pharmacy Inc.",
+        "userId": 57
+    },
+    {
+        "id": 783,
+        "drugName": "DOK EXTRA STRENGTH STOOL SOFTENER",
+        "company": "H.J. Harkins Company, Inc.",
+        "userId": 96
+    },
+    {
+        "id": 784,
+        "drugName": "Simvastatin",
+        "company": "Cardinal Health",
+        "userId": 89
+    },
+    {
+        "id": 785,
+        "drugName": "Webb Candy",
+        "company": "Webb Candy",
+        "userId": 11
+    },
+    {
+        "id": 786,
+        "drugName": "Propranolol Hydrochloride",
+        "company": "Bryant Ranch Prepack",
+        "userId": 89
+    },
+    {
+        "id": 787,
+        "drugName": "Advil Congestion Relief",
+        "company": "Lil' Drug Store Products, Inc",
+        "userId": 82
+    },
+    {
+        "id": 788,
+        "drugName": "No7 Beautifully Matte Foundation Sunscreen Broad Spectrum SPF 15 Wheat",
+        "company": "BCM Cosmetique SAS",
+        "userId": 57
+    },
+    {
+        "id": 789,
+        "drugName": "preferred plus severe cold cough and flu",
+        "company": "Kinray",
+        "userId": 43
+    },
+    {
+        "id": 790,
+        "drugName": "Tri-Sprintec",
+        "company": "Rebel Distributors Corp",
+        "userId": 100
+    },
+    {
+        "id": 791,
+        "drugName": "Seasonal Allergy Formula",
+        "company": "Integrative Healing Institute, LLC",
+        "userId": 97
+    },
+    {
+        "id": 792,
+        "drugName": "Phenytoin Sodium",
+        "company": "West-Ward Pharmaceutical Corp.",
+        "userId": 25
+    },
+    {
+        "id": 793,
+        "drugName": "KIT FOR THE PREPARATION OF TC 99M PYROPHOSPHATE",
+        "company": "Mallinckrodt Inc.",
+        "userId": 76
+    },
+    {
+        "id": 794,
+        "drugName": "Quillivant",
+        "company": "NextWave Pharmaceuticals, Inc.",
+        "userId": 76
+    },
+    {
+        "id": 795,
+        "drugName": "CRESTOR",
+        "company": "Bryant Ranch Prepack",
+        "userId": 21
+    },
+    {
+        "id": 796,
+        "drugName": "Cepacol",
+        "company": "Reckitt Benckiser LLC",
+        "userId": 13
+    },
+    {
+        "id": 797,
+        "drugName": "Alprazolam",
+        "company": "Rebel Distributors Corp",
+        "userId": 36
+    },
+    {
+        "id": 798,
+        "drugName": "Aspirin",
+        "company": "McKesson",
+        "userId": 20
+    },
+    {
+        "id": 799,
+        "drugName": "Diazepam",
+        "company": "Preferred Pharmaceuticals, Inc.",
+        "userId": 52
+    },
+    {
+        "id": 800,
+        "drugName": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "company": "Caraco Pharmaceutical Laboratories, Ltd.",
+        "userId": 15
+    },
+    {
+        "id": 801,
+        "drugName": "Lisinopril",
+        "company": "REMEDYREPACK INC.",
+        "userId": 55
+    },
+    {
+        "id": 802,
+        "drugName": "Oxygen",
+        "company": "Coastal Welding Supply, Inc.",
+        "userId": 26
+    },
+    {
+        "id": 803,
+        "drugName": "simply right anti diarrheal",
+        "company": "Sam's West Inc",
+        "userId": 50
+    },
+    {
+        "id": 804,
+        "drugName": "Walgreens Capsaicin Hot",
+        "company": "Walgreen Co",
+        "userId": 48
+    },
+    {
+        "id": 805,
+        "drugName": "GODDESS GARDEN ORGANICS Sunny Body NATURAL SUNSCREEN BROAD SPECTRUM SPF 30 WATER RESISTANT",
+        "company": "Crossing Cultures, LLC dba Goddess Garden",
+        "userId": 62
+    },
+    {
+        "id": 806,
+        "drugName": "Methocarbamol",
+        "company": "Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC",
+        "userId": 15
+    },
+    {
+        "id": 807,
+        "drugName": "Premarin",
+        "company": "A-S Medication Solutions LLC",
+        "userId": 97
+    },
+    {
+        "id": 808,
+        "drugName": "Nifedipine",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 11
+    },
+    {
+        "id": 809,
+        "drugName": "Up and Up Nicotine",
+        "company": "Target Corporation",
+        "userId": 47
+    },
+    {
+        "id": 810,
+        "drugName": "Nizatidine",
+        "company": "Glenmark Generics Inc.,USA",
+        "userId": 84
+    },
+    {
+        "id": 811,
+        "drugName": "Solar Protection Formula LipTect",
+        "company": "Fallien Cosmeceuticals, LTD.",
+        "userId": 61
+    },
+    {
+        "id": 812,
+        "drugName": "Fig",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 9
+    },
+    {
+        "id": 813,
+        "drugName": "NAPROXEN",
+        "company": "Blenheim Pharmacal, Inc.",
+        "userId": 69
+    },
+    {
+        "id": 814,
+        "drugName": "CENTER-AL - PLANTAGO LANCEOLATA POLLEN",
+        "company": "ALK-Abello, Inc.",
+        "userId": 5
+    },
+    {
+        "id": 815,
+        "drugName": "Cleocin",
+        "company": "Pharmacia and Upjohn Company",
+        "userId": 36
+    },
+    {
+        "id": 816,
+        "drugName": "Amlodipine and Atorvastatin",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 76
+    },
+    {
+        "id": 817,
+        "drugName": "Granulex",
+        "company": "Mylan Institutional Inc.",
+        "userId": 20
+    },
+    {
+        "id": 818,
+        "drugName": "Folic Acid",
+        "company": "Preferred Pharmaceuticals, Inc.",
+        "userId": 17
+    },
+    {
+        "id": 819,
+        "drugName": "Amlodipine and Benazepril Hydrochloride",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 38
+    },
+    {
+        "id": 820,
+        "drugName": "All Day Freshness Antibacterial Body Wash with Moisturizer",
+        "company": "Diversapack of Monroe, LLC",
+        "userId": 8
+    },
+    {
+        "id": 821,
+        "drugName": "Eye Sarcode",
+        "company": "Apotheca Company",
+        "userId": 94
+    },
+    {
+        "id": 822,
+        "drugName": "MELAMIX Skin Lightener and Blending",
+        "company": "ZO Skin Health, Inc.",
+        "userId": 62
+    },
+    {
+        "id": 823,
+        "drugName": "Tea Tree Antiseptic",
+        "company": "Integria Healthcare (US) Inc",
+        "userId": 52
+    },
+    {
+        "id": 824,
+        "drugName": "PLETAL",
+        "company": "Otsuka America Pharmaceutical, Inc.",
+        "userId": 4
+    },
+    {
+        "id": 825,
+        "drugName": "Pravastatin Sodium",
+        "company": "Glenmark Generics Inc., USA",
+        "userId": 62
+    },
+    {
+        "id": 826,
+        "drugName": "NARS PURE RADIANT TINTED MOISTURIZER",
+        "company": "NARS Cosmetics",
+        "userId": 31
+    },
+    {
+        "id": 827,
+        "drugName": "yourhome",
+        "company": "Harris Teeter",
+        "userId": 29
+    },
+    {
+        "id": 828,
+        "drugName": "Treatment Set TS349290",
+        "company": "Antigen Laboratories, Inc.",
+        "userId": 73
+    },
+    {
+        "id": 829,
+        "drugName": "Treatment Set TS345380",
+        "company": "Antigen Laboratories, Inc.",
+        "userId": 75
+    },
+    {
+        "id": 830,
+        "drugName": "Appetite Enhancer",
+        "company": "King Bio Inc.",
+        "userId": 94
+    },
+    {
+        "id": 831,
+        "drugName": "Geotrichum candidum",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 47
+    },
+    {
+        "id": 832,
+        "drugName": "Herring",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 88
+    },
+    {
+        "id": 833,
+        "drugName": "Gripp-Heel",
+        "company": "Heel Inc",
+        "userId": 55
+    },
+    {
+        "id": 834,
+        "drugName": "DILT-CD",
+        "company": "Apotex Corp.",
+        "userId": 3
+    },
+    {
+        "id": 835,
+        "drugName": "Gabapentin",
+        "company": "American Health Packaging",
+        "userId": 54
+    },
+    {
+        "id": 836,
+        "drugName": "TRICLOSAN",
+        "company": "CVS Pharmacy",
+        "userId": 76
+    },
+    {
+        "id": 837,
+        "drugName": "Zolpidem tartrate",
+        "company": "Proficient Rx LP",
+        "userId": 41
+    },
+    {
+        "id": 838,
+        "drugName": "Nighttime Sleep Aid Maximum Strength",
+        "company": "P and L Development of New York Corporation",
+        "userId": 37
+    },
+    {
+        "id": 839,
+        "drugName": "Koate",
+        "company": "KEDRION BIOPHARMA, INC",
+        "userId": 27
+    },
+    {
+        "id": 840,
+        "drugName": "ESIKA",
+        "company": "Ventura Corporation (San Juan, P.R)",
+        "userId": 97
+    },
+    {
+        "id": 841,
+        "drugName": "triamcinolone acetonide",
+        "company": "Rebel Distributors Corp",
+        "userId": 44
+    },
+    {
+        "id": 842,
+        "drugName": "careone suphedrine 12 hour relief",
+        "company": "American Sales Company",
+        "userId": 64
+    },
+    {
+        "id": 843,
+        "drugName": "BareMinerals",
+        "company": "Bare Escentuals Beauty Inc.",
+        "userId": 8
+    },
+    {
+        "id": 844,
+        "drugName": "Zidovudine",
+        "company": "REMEDYREPACK INC.",
+        "userId": 76
+    },
+    {
+        "id": 845,
+        "drugName": "GIVEN BY NATURE ALOE MASK SHEET",
+        "company": "NATURE REPUBLIC CO., LTD.",
+        "userId": 46
+    },
+    {
+        "id": 846,
+        "drugName": "AGE DEFYING MOISTURIZER",
+        "company": "Skin Authority LLC",
+        "userId": 43
+    },
+    {
+        "id": 847,
+        "drugName": "Vigoril Plus",
+        "company": "Homeocare Laboratories",
+        "userId": 36
+    },
+    {
+        "id": 848,
+        "drugName": "Lidocaine Hydrochloride",
+        "company": "Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC",
+        "userId": 12
+    },
+    {
+        "id": 849,
+        "drugName": "Valium",
+        "company": "Cardinal Health",
+        "userId": 86
+    },
+    {
+        "id": 850,
+        "drugName": "Cimetidine",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 65
+    },
+    {
+        "id": 851,
+        "drugName": "ZOOBY",
+        "company": "Young Dental Manufacturing Co 1, LLC",
+        "userId": 16
+    },
+    {
+        "id": 852,
+        "drugName": "ATACAND",
+        "company": "Bryant Ranch Prepack",
+        "userId": 60
+    },
+    {
+        "id": 853,
+        "drugName": "TopCare Nasal Decongestant PE",
+        "company": "Topco Associates LLC",
+        "userId": 19
+    },
+    {
+        "id": 854,
+        "drugName": "Flavoxate Hydrochloride",
+        "company": "Golden State Medical Supply, Inc.",
+        "userId": 60
+    },
+    {
+        "id": 855,
+        "drugName": "Migraines",
+        "company": "Home Sweet Homeopathics",
+        "userId": 70
+    },
+    {
+        "id": 856,
+        "drugName": "Meloxicam",
+        "company": "Strides Arcolab Limited",
+        "userId": 57
+    },
+    {
+        "id": 857,
+        "drugName": "Pioglitazone Hydrochloride",
+        "company": "Gen-Source Rx",
+        "userId": 42
+    },
+    {
+        "id": 858,
+        "drugName": "Octreotide acetate",
+        "company": "Wockhardt USA LLC.",
+        "userId": 51
+    },
+    {
+        "id": 859,
+        "drugName": "Oxalis Belladonna",
+        "company": "Uriel Pharmacy Inc.",
+        "userId": 41
+    },
+    {
+        "id": 860,
+        "drugName": "Morphine Sulfate",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 43
+    },
+    {
+        "id": 861,
+        "drugName": "Equaline Childrens Pain and Fever",
+        "company": "Supervalu Inc",
+        "userId": 21
+    },
+    {
+        "id": 862,
+        "drugName": "fentanyl citrate",
+        "company": "CIMA Laboratories, Inc.",
+        "userId": 74
+    },
+    {
+        "id": 863,
+        "drugName": "Conquest",
+        "company": "KAY CHEMICAL CO.",
+        "userId": 86
+    },
+    {
+        "id": 864,
+        "drugName": "Good Sense Naproxen Sodium",
+        "company": "L. Perrigo Company",
+        "userId": 98
+    },
+    {
+        "id": 865,
+        "drugName": "Warfarin Sodium",
+        "company": "Aidarex Pharmaceuticals LLC",
+        "userId": 8
+    },
+    {
+        "id": 866,
+        "drugName": "Oxygen",
+        "company": "Family Medical Supply Inc.",
+        "userId": 87
+    },
+    {
+        "id": 867,
+        "drugName": "Next Choice",
+        "company": "Dispensing Solutions, Inc.",
+        "userId": 68
+    },
+    {
+        "id": 868,
+        "drugName": "Metronidazole",
+        "company": "STAT Rx USA LLC",
+        "userId": 93
+    },
+    {
+        "id": 869,
+        "drugName": "Hydrocodone Bitartrate And Acetaminophen",
+        "company": "A-S Medication Solutions LLC",
+        "userId": 20
+    },
+    {
+        "id": 870,
+        "drugName": "Benztropine Mesylate",
+        "company": "Camber Pharmaceutical, Inc.",
+        "userId": 62
+    },
+    {
+        "id": 871,
+        "drugName": "OXCARBAZEPINE",
+        "company": "REMEDYREPACK INC.",
+        "userId": 59
+    },
+    {
+        "id": 872,
+        "drugName": "Acetaminophen",
+        "company": "Family Dollar (FAMILY WELLNESS)",
+        "userId": 92
+    },
+    {
+        "id": 873,
+        "drugName": "Trazodone Hydrochloride",
+        "company": "Mutual Pharmaceutical Company, Inc.",
+        "userId": 51
+    },
+    {
+        "id": 874,
+        "drugName": "Nicardipine Hydrochloride",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 34
+    },
+    {
+        "id": 875,
+        "drugName": "ibuprofen",
+        "company": "Medicine Shoppe International Inc",
+        "userId": 31
+    },
+    {
+        "id": 876,
+        "drugName": "Nicotine Polacrilex, Original",
+        "company": "Premier Value",
+        "userId": 39
+    },
+    {
+        "id": 877,
+        "drugName": "Anti-Bacterial Hand",
+        "company": "Bath & Body Works, Inc.",
+        "userId": 38
+    },
+    {
+        "id": 878,
+        "drugName": "Lorazepam",
+        "company": "McKesson Packaging Services Business Unit of McKesson Corporation",
+        "userId": 43
+    },
+    {
+        "id": 879,
+        "drugName": "Chlor-Tabs",
+        "company": "Wal-Mart Stores Inc",
+        "userId": 34
+    },
+    {
+        "id": 880,
+        "drugName": "Purminerals 4-in-1 14-Hour Wear Foundation Broad Spectrum SPF 15 (GOLDEN MEDIUM)",
+        "company": "Purminerals",
+        "userId": 80
+    },
+    {
+        "id": 881,
+        "drugName": "Orange Pollen",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 28
+    },
+    {
+        "id": 882,
+        "drugName": "Psorizide Ultra",
+        "company": "Plymouth Pharmaceuticals Inc dba Loma Lux Laboratories",
+        "userId": 6
+    },
+    {
+        "id": 883,
+        "drugName": "MORELLA CERIFERA POLLEN",
+        "company": "ALK-Abello, Inc.",
+        "userId": 51
+    },
+    {
+        "id": 884,
+        "drugName": "PDI Sani-Hands Instant Hand Sanitizing Wipes",
+        "company": "Profesional Disposables International, Inc.",
+        "userId": 77
+    },
+    {
+        "id": 885,
+        "drugName": "Povidone Iodine",
+        "company": "Jiangsu Province JianErKang Medical Dressing Co. ,Ltd.",
+        "userId": 97
+    },
+    {
+        "id": 886,
+        "drugName": "Proactiv Solution Daily Protection Plus Sunscreen",
+        "company": "Guthy-Renker LLC",
+        "userId": 55
+    },
+    {
+        "id": 887,
+        "drugName": "Erythrocin Stearate",
+        "company": "REMEDYREPACK INC.",
+        "userId": 12
+    },
+    {
+        "id": 888,
+        "drugName": "ASPIRIN",
+        "company": "TIME CAP LABS INC",
+        "userId": 31
+    },
+    {
+        "id": 889,
+        "drugName": "Mary Kay TimeWise Body Hand and Decolette Cream SPF 15",
+        "company": "Mary Kay Inc.",
+        "userId": 29
+    },
+    {
+        "id": 890,
+        "drugName": "CUBA ORIGINAL LADIES ROLL ON ANTIPERSPIRANT DEODORANT",
+        "company": "BB TRADING WORLDWIDE, INC",
+        "userId": 68
+    },
+    {
+        "id": 891,
+        "drugName": "Ibuprofen",
+        "company": "L.N.K. International, Inc.",
+        "userId": 7
+    },
+    {
+        "id": 892,
+        "drugName": "RABEPRAZOLE SODIUM",
+        "company": "Lupin Pharmaceuticals, Inc.",
+        "userId": 29
+    },
+    {
+        "id": 893,
+        "drugName": "PREZISTA",
+        "company": "State of Florida DOH Central Pharmacy",
+        "userId": 10
+    },
+    {
+        "id": 894,
+        "drugName": "Labetalol Hydrochloride",
+        "company": "IVAX Pharmaceuticals, Inc.",
+        "userId": 8
+    },
+    {
+        "id": 895,
+        "drugName": "Pantoprazole Sodium",
+        "company": "Sun Pharma Global FZE",
+        "userId": 13
+    },
+    {
+        "id": 896,
+        "drugName": "Metoclopramide",
+        "company": "NCS HealthCare of KY, Inc dba Vangard Labs",
+        "userId": 87
+    },
+    {
+        "id": 897,
+        "drugName": "TEMAZEPAM",
+        "company": "STAT Rx USA LLC",
+        "userId": 92
+    },
+    {
+        "id": 898,
+        "drugName": "Epinephrine",
+        "company": "McKesson Packaging Services Business Unit of McKesson Corporation",
+        "userId": 28
+    },
+    {
+        "id": 899,
+        "drugName": "SCIATICA HP",
+        "company": "Natural Creations, Inc.",
+        "userId": 58
+    },
+    {
+        "id": 900,
+        "drugName": "Roota Re V for women",
+        "company": "Raphabio Inc",
+        "userId": 42
+    },
+    {
+        "id": 901,
+        "drugName": "Doxazosin",
+        "company": "Mylan Pharmaceuticals Inc.",
+        "userId": 85
+    },
+    {
+        "id": 902,
+        "drugName": "BioTox Bac",
+        "company": "The Wellness Center for Research and Education",
+        "userId": 84
+    },
+    {
+        "id": 903,
+        "drugName": "Glipizide",
+        "company": "Actavis Elizabeth LLC",
+        "userId": 76
+    },
+    {
+        "id": 904,
+        "drugName": "TobraDex",
+        "company": "A-S Medication Solutions LLC",
+        "userId": 82
+    },
+    {
+        "id": 905,
+        "drugName": "RK Detox",
+        "company": "Weight Loss Products, LLC",
+        "userId": 24
+    },
+    {
+        "id": 906,
+        "drugName": "Ondansetron Hydrochloride",
+        "company": "Roxane Laboratories, Inc",
+        "userId": 74
+    },
+    {
+        "id": 907,
+        "drugName": "FACE IT 4D PERPECT TWO-WAY CAKE NB23",
+        "company": "THEFACESHOP CO., LTD",
+        "userId": 66
+    },
+    {
+        "id": 908,
+        "drugName": "TEETHING",
+        "company": "CVS PHARMACY",
+        "userId": 23
+    },
+    {
+        "id": 909,
+        "drugName": "AcipHex",
+        "company": "Cardinal Health",
+        "userId": 79
+    },
+    {
+        "id": 910,
+        "drugName": "Clonidine Hydrochloride",
+        "company": "Preferred Pharmaceuticals, Inc",
+        "userId": 84
+    },
+    {
+        "id": 911,
+        "drugName": "Womens Mitchum Clinical Antiperspirant Deodorant",
+        "company": "Revlon Consumer Products Corp",
+        "userId": 89
+    },
+    {
+        "id": 912,
+        "drugName": "Minitran",
+        "company": "Graceway Pharmaceuticals, LLC",
+        "userId": 66
+    },
+    {
+        "id": 913,
+        "drugName": "Allopurinol",
+        "company": "Accord Healthcare Inc.",
+        "userId": 9
+    },
+    {
+        "id": 914,
+        "drugName": "CeraVe",
+        "company": "Valeant Pharmaceuticals North America LLC",
+        "userId": 54
+    },
+    {
+        "id": 915,
+        "drugName": "complete",
+        "company": "HyVee Inc",
+        "userId": 85
+    },
+    {
+        "id": 916,
+        "drugName": "levocetirizine dihydrochloride",
+        "company": "Winthrop U.S.",
+        "userId": 5
+    },
+    {
+        "id": 917,
+        "drugName": "Metoprolol Tartrate",
+        "company": "State of Florida DOH Central Pharmacy",
+        "userId": 6
+    },
+    {
+        "id": 918,
+        "drugName": "Skin brightening antiperspirant deodorant roll-on",
+        "company": "Jafra cosmetics International",
+        "userId": 69
+    },
+    {
+        "id": 919,
+        "drugName": "Flumazenil",
+        "company": "Cardinal Health",
+        "userId": 32
+    },
+    {
+        "id": 920,
+        "drugName": "Aspirin",
+        "company": "Rugby Laboratories Inc.",
+        "userId": 9
+    },
+    {
+        "id": 921,
+        "drugName": "Sulfamethoxazole and Trimethoprim",
+        "company": "Qualitest Pharmaceuticals",
+        "userId": 51
+    },
+    {
+        "id": 922,
+        "drugName": "Dexamethasone Sodium Phosphate",
+        "company": "Stat Rx USA",
+        "userId": 28
+    },
+    {
+        "id": 923,
+        "drugName": "Propranolol Hydrochloride",
+        "company": "Roxane Laboratories, Inc",
+        "userId": 58
+    },
+    {
+        "id": 924,
+        "drugName": "Tramadol Hydrochloride",
+        "company": "Par Pharmaceutical, Inc.",
+        "userId": 86
+    },
+    {
+        "id": 925,
+        "drugName": "Carvedilol",
+        "company": "REMEDYREPACK INC.",
+        "userId": 100
+    },
+    {
+        "id": 926,
+        "drugName": "Clean and Clear",
+        "company": "Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",
+        "userId": 35
+    },
+    {
+        "id": 927,
+        "drugName": "Omeprazole",
+        "company": "Cadila Healthcare Limited",
+        "userId": 32
+    },
+    {
+        "id": 928,
+        "drugName": "Ceftriaxone Sodium",
+        "company": "REMEDYREPACK INC.",
+        "userId": 96
+    },
+    {
+        "id": 929,
+        "drugName": "Tussin DM",
+        "company": "Medicine Shoppe International Inc",
+        "userId": 38
+    },
+    {
+        "id": 930,
+        "drugName": "Naproxen",
+        "company": "STAT Rx USA LLC",
+        "userId": 58
+    },
+    {
+        "id": 931,
+        "drugName": "Ativan",
+        "company": "Valeant Pharmaceuticals North America LLC",
+        "userId": 28
+    },
+    {
+        "id": 932,
+        "drugName": "Lovastatin",
+        "company": "PD-Rx Pharmaceuticals, Inc.",
+        "userId": 99
+    },
+    {
+        "id": 933,
+        "drugName": "Milk of Magnesia Original",
+        "company": "Select Brand",
+        "userId": 38
+    },
+    {
+        "id": 934,
+        "drugName": "Vicks DayQuil and Vicks NyQuil",
+        "company": "Procter & Gamble Manufacturing Company",
+        "userId": 76
+    },
+    {
+        "id": 935,
+        "drugName": "Regular Strength Aspirin EC",
+        "company": "Aidarex Pharmaceuticals LLC",
+        "userId": 37
+    },
+    {
+        "id": 936,
+        "drugName": "Ranitidine Hydrochloride",
+        "company": "Sandoz Inc",
+        "userId": 63
+    },
+    {
+        "id": 937,
+        "drugName": "Fem Relief",
+        "company": "North Safety Products LLC",
+        "userId": 68
+    },
+    {
+        "id": 938,
+        "drugName": "Fresh Herbs Antibacterial Hand Wash",
+        "company": "SJ Creations, Inc.",
+        "userId": 65
+    },
+    {
+        "id": 939,
+        "drugName": "Anti-Fungal",
+        "company": "Rugby Laboratories",
+        "userId": 59
+    },
+    {
+        "id": 940,
+        "drugName": "Desmopressin Acetate",
+        "company": "American Health Packaging",
+        "userId": 28
+    },
+    {
+        "id": 941,
+        "drugName": "Ultra-TechneKow",
+        "company": "Mallinckrodt Inc.",
+        "userId": 31
+    },
+    {
+        "id": 942,
+        "drugName": "Coppertone Sport Continuous",
+        "company": "MSD Consumer Care, Inc.",
+        "userId": 36
+    },
+    {
+        "id": 943,
+        "drugName": "Hydroxyzine Hydrochloride",
+        "company": "Rebel Distributors Corp",
+        "userId": 15
+    },
+    {
+        "id": 944,
+        "drugName": "up and up cold and sinus",
+        "company": "Target Corporation",
+        "userId": 92
+    },
+    {
+        "id": 945,
+        "drugName": "Valacyclovir Hydrochloride",
+        "company": "Aurobindo Pharma Limited",
+        "userId": 4
+    },
+    {
+        "id": 946,
+        "drugName": "Cefoxitin",
+        "company": "Sagent Pharmaceuticals",
+        "userId": 98
+    },
+    {
+        "id": 947,
+        "drugName": "Atenolol",
+        "company": "Pack Pharmaceuticals LLC",
+        "userId": 55
+    },
+    {
+        "id": 948,
+        "drugName": "PAROXETINE",
+        "company": "Physicians Total Care, Inc.",
+        "userId": 20
+    },
+    {
+        "id": 949,
+        "drugName": "Menstrual Relief",
+        "company": "L.N.K. International, Inc.",
+        "userId": 88
+    },
+    {
+        "id": 950,
+        "drugName": "nifedipine",
+        "company": "Contract Pharmacy Services-PA",
+        "userId": 94
+    },
+    {
+        "id": 951,
+        "drugName": "Parsnip",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 30
+    },
+    {
+        "id": 952,
+        "drugName": "Advanced Petrolatum",
+        "company": "Ultra Seal Corporation",
+        "userId": 70
+    },
+    {
+        "id": 953,
+        "drugName": "Ultrasol",
+        "company": "Fischer Pharmaceuticals Ltd",
+        "userId": 6
+    },
+    {
+        "id": 954,
+        "drugName": "MELOXICAM",
+        "company": "STAT RX USA LLC",
+        "userId": 38
+    },
+    {
+        "id": 955,
+        "drugName": "California Valley White Oak",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 38
+    },
+    {
+        "id": 956,
+        "drugName": "Ammonia N 13",
+        "company": "Washington University School of Medicine",
+        "userId": 99
+    },
+    {
+        "id": 957,
+        "drugName": "Herpes Sores",
+        "company": "Newton Laboratories, Inc.",
+        "userId": 89
+    },
+    {
+        "id": 958,
+        "drugName": "JUGLANS REGIA POLLEN",
+        "company": "ALK-Abello, Inc.",
+        "userId": 98
+    },
+    {
+        "id": 959,
+        "drugName": "Oxaliplatin",
+        "company": "Hospira Worldwide, Inc.",
+        "userId": 66
+    },
+    {
+        "id": 960,
+        "drugName": "Acyclovir",
+        "company": "Preferred Pharmaceuticals, Inc.",
+        "userId": 42
+    },
+    {
+        "id": 961,
+        "drugName": "Diorskin Nude Natural Glow Makeup 022 Cameo",
+        "company": "Parfums Christian Dior",
+        "userId": 96
+    },
+    {
+        "id": 962,
+        "drugName": "nicotine",
+        "company": "Meijer Distribution Inc",
+        "userId": 65
+    },
+    {
+        "id": 963,
+        "drugName": "ANTIBACTERIAL FOAMING",
+        "company": "SUPERVALU INC",
+        "userId": 21
+    },
+    {
+        "id": 964,
+        "drugName": "Treatment Set TS350093",
+        "company": "Antigen Laboratories, Inc.",
+        "userId": 43
+    },
+    {
+        "id": 965,
+        "drugName": "Furosemide",
+        "company": "McKesson Packaging Services Business Unit of McKesson Corporation",
+        "userId": 79
+    },
+    {
+        "id": 966,
+        "drugName": "Metoclopramide Hydrochloride",
+        "company": "REMEDYREPACK INC.",
+        "userId": 43
+    },
+    {
+        "id": 967,
+        "drugName": "Conju Princess BB",
+        "company": "Conju Inc",
+        "userId": 31
+    },
+    {
+        "id": 968,
+        "drugName": "Smart Sense Hydrocortisone",
+        "company": "Kmart Corporation",
+        "userId": 2
+    },
+    {
+        "id": 969,
+        "drugName": "Piperacillin and Tazobactam",
+        "company": "Hospira, Inc",
+        "userId": 16
+    },
+    {
+        "id": 970,
+        "drugName": "Methylphenidate Hydrochloride",
+        "company": "American Health Packaging",
+        "userId": 99
+    },
+    {
+        "id": 971,
+        "drugName": "Loxapine",
+        "company": "REMEDYREPACK INC.",
+        "userId": 85
+    },
+    {
+        "id": 972,
+        "drugName": "Flu Relief Therapy Night Time",
+        "company": "Good Neighbor Pharmacy",
+        "userId": 24
+    },
+    {
+        "id": 973,
+        "drugName": "venlafaxine",
+        "company": "NorthStar RxLLC",
+        "userId": 50
+    },
+    {
+        "id": 974,
+        "drugName": "Crest",
+        "company": "Procter & Gamble Manufacturing Company",
+        "userId": 41
+    },
+    {
+        "id": 975,
+        "drugName": "amlodipine besylate and benazepril hydrochloride",
+        "company": "NCS HealthCare of KY, Inc dba Vangard Labs",
+        "userId": 87
+    },
+    {
+        "id": 976,
+        "drugName": "Thyro Tonic",
+        "company": "Apotheca Company",
+        "userId": 5
+    },
+    {
+        "id": 977,
+        "drugName": "GUNA-IL 2",
+        "company": "Guna spa",
+        "userId": 65
+    },
+    {
+        "id": 978,
+        "drugName": "Forma-Ray",
+        "company": "Gordon Laboratories",
+        "userId": 90
+    },
+    {
+        "id": 979,
+        "drugName": "Conchae Argentum",
+        "company": "Uriel Pharmacy Inc.",
+        "userId": 35
+    },
+    {
+        "id": 980,
+        "drugName": "Doxycycline Hyclate",
+        "company": "AvKARE, Inc.",
+        "userId": 72
+    },
+    {
+        "id": 981,
+        "drugName": "Metoprolol Tartrate",
+        "company": "American Regent, Inc.",
+        "userId": 56
+    },
+    {
+        "id": 982,
+        "drugName": "SERTRALINE HYDROCHLORIDE",
+        "company": "PD-Rx Pharmaceuticals, Inc.",
+        "userId": 18
+    },
+    {
+        "id": 983,
+        "drugName": "Lisinopril",
+        "company": "Cardinal Health",
+        "userId": 72
+    },
+    {
+        "id": 984,
+        "drugName": "PharmaRight Extra Strength Antacid ASSORTED FRUIT",
+        "company": "Universal holdings I LLC dba Smith Brothers Company",
+        "userId": 70
+    },
+    {
+        "id": 985,
+        "drugName": "H-Molluscum Formula",
+        "company": "Healing Natural Oils LLC",
+        "userId": 22
+    },
+    {
+        "id": 986,
+        "drugName": "Balsam Poplar",
+        "company": "Nelco Laboratories, Inc.",
+        "userId": 39
+    },
+    {
+        "id": 987,
+        "drugName": "Losartan Potassium and Hydrochlorothiazide",
+        "company": "AvPAK",
+        "userId": 65
+    },
+    {
+        "id": 988,
+        "drugName": "Phentermine Hydrochloride",
+        "company": "Lannett Company, Inc.",
+        "userId": 79
+    },
+    {
+        "id": 989,
+        "drugName": "Urinary Pain Relief",
+        "company": "The Kroger Co",
+        "userId": 90
+    },
+    {
+        "id": 990,
+        "drugName": "PRAMIPEXOLE DIHYDROCHLORIDE",
+        "company": "Zydus Pharmaceuticals (USA) Inc.",
+        "userId": 19
+    },
+    {
+        "id": 991,
+        "drugName": "Hormeel",
+        "company": "Heel Inc",
+        "userId": 91
+    },
+    {
+        "id": 992,
+        "drugName": "Phisoderm Anti Blemish Body Wash",
+        "company": "The Mentholatum Company",
+        "userId": 83
+    },
+    {
+        "id": 993,
+        "drugName": "SHISEIDO THE MAKEUP LIFTING FOUNDATION",
+        "company": "SHISEIDO AMERICA INC.",
+        "userId": 21
+    },
+    {
+        "id": 994,
+        "drugName": "Therabenzaprine-90-5",
+        "company": "Physician Therapeutics LLC",
+        "userId": 91
+    },
+    {
+        "id": 995,
+        "drugName": "Morphine Sulfate",
+        "company": "Par Pharmaceutical Inc.",
+        "userId": 91
+    },
+    {
+        "id": 996,
+        "drugName": "Vecuronium Bromide",
+        "company": "Pfizer Laboratories Div Pfizer Inc",
+        "userId": 27
+    },
+    {
+        "id": 997,
+        "drugName": "Quinapril",
+        "company": "Camber Pharmaceuticals",
+        "userId": 100
+    },
+    {
+        "id": 998,
+        "drugName": "Torsemide",
+        "company": "Par Pharmaceutical Inc",
+        "userId": 21
+    },
+    {
+        "id": 999,
+        "drugName": "Hydrocortisone",
+        "company": "Valu Merchandisers, Co.",
+        "userId": 54
+    },
+    {
+        "id": 1000,
+        "drugName": "SMASHBOX",
+        "company": "SMASHBOX BEAUTY COSMETICS, INC",
+        "userId": 86
+    }
+]
