@@ -59,6 +59,27 @@ app.delete('/users/:id', (req, res) => {
     });
     //res.json(usersID); 
 });
+///// update users 
+app.all('/users/:id/:full_name/:drug/:email/:gender/:age', (req, res) => {
+    let ind=0;
+   let obj = {
+       full_name: req.params.full_name,
+       drug: req.params.drug,
+       email: req.params.email,
+       gender: req.params.gender,
+       age: req.params.age,
+
+   }
+   let usersId = users.filter(u => {
+       if (u.id == req.params.id) {
+           ind = u.id;
+       }
+   })
+   let updatedUsers = users.splice(ind, 1, obj);
+   res.json(updatedUsers)
+   fs.writeFileSync('./users.json', JSON.stringify(updatedUsers), function (err) { console.log(err) })
+   // res.json(obj);
+});
 
 
 
