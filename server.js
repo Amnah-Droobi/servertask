@@ -6,12 +6,13 @@ let firstFile = fs.readFileSync('./users.json', 'utf-8');
 let users = JSON.parse(firstFile);
 let secondFile = fs.readFileSync('./drug.json', 'utf-8');
 let drugs = JSON.parse(secondFile);
-
+//// read users.json file 
 app.get('/users', (req, res) => res.json(users)
 );
-
+/// read drugs.json file 
 app.get('/drugs', (req, res) => res.json(drugs)
 );
+
 
 
 
