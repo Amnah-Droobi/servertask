@@ -49,6 +49,17 @@ app.post('/users/:name/:email/:gender', (req, res) => {
 
 });
 
+//// Deleted users 
+
+app.delete('/users/:id', (req, res) => {
+    let usersID = users.filter(u => (u.id == req.params.id));
+    res.json(users.splice(users.indexOf(usersID[0]), 1));
+    fs.writeFile('/users.json', JSON.stringify(users.indexOf(usersID[0])), function (err) {
+        console.log(err);
+    });
+    //res.json(usersID); 
+});
+
 
 
 
